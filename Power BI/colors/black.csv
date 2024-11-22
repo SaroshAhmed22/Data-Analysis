@@ -1,0 +1,787 @@
+Store,Brand,Type,Gender,Time,Month,Size,Color,Category,Sales Price,Date
+Tokyo,Asics,WB2585,Female,7:58 AM,7,39,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,MB1878,Male,9:07 AM,7,38,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,9:11 AM,7,42-44,Black,Socks,€ 12.99,7/15/2015
+Tokyo,Asics,MB1878,Male,10:04 AM,7,38,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,MB1878,Male,10:06 AM,7,46,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,WB2585,Female,2:52 PM,7,46,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,MB1878,Male,3:31 PM,7,37,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,WB2585,Female,5:44 PM,7,40,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,MB1878,Male,6:59 PM,7,40,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,7:03 PM,7,38-40,Black,Socks,€ 21.00,7/15/2015
+Tokyo,Asics,WB2585,Female,7:36 PM,7,40,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,WB1820,Female,8:00 PM,7,43,Black,Pants,€ 89.00,7/15/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,10:01 PM,7,42-44,Black,Socks,€ 21.00,7/15/2015
+Tokyo,Asics,WB1820,Female,10:45 PM,7,41,Black,Pants,€ 89.00,7/15/2015
+Tokyo,Asics,MB1878,Male,11:13 PM,7,38,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,10:02 AM,7,44-46,Black,Socks,€ 24.99,7/15/2015
+Tokyo,Asics,MB1878,Male,11:01 AM,7,44,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,MB1878,Male,11:25 AM,7,46,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Nike,Pro Fierce,Female,11:32 AM,7,70B,Black,Bra,€ 149.00,7/15/2015
+Tokyo,Asics,WB1820,Female,11:38 AM,7,43,Black,Pants,€ 89.00,7/15/2015
+Tokyo,Asics,WB2585,Female,12:09 PM,7,44,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,1:18 PM,7,38-40,Black,Socks,€ 12.99,7/15/2015
+Tokyo,Asics,MB1878,Male,1:25 PM,7,42,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,MB1878,Male,1:31 PM,7,38,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,MB1878,Male,1:48 PM,7,37,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,MB1878,Male,2:24 PM,7,43,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,WB1820,Female,2:45 PM,7,46,Black,Pants,€ 89.00,7/15/2015
+Tokyo,Asics,Nimbus 17,Male,2:48 PM,7,39,Black,Shoe,€ 128.00,7/15/2015
+Tokyo,Asics,MB1878,Male,3:47 PM,7,41,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,4:39 PM,7,38-40,Black,Socks,€ 12.99,7/15/2015
+Tokyo,Asics,WB1820,Female,8:26 AM,7,37,Black,Pants,€ 89.00,7/15/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,12:31 PM,7,46-48,Black,Socks,€ 20.00,7/15/2015
+Tokyo,Nike,Free 5.0,Female,1:19 PM,7,37,Black,Shoe,€ 239.00,7/15/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,2:18 PM,7,42-44,Black,Socks,€ 20.00,7/15/2015
+Tokyo,Asics,WB1820,Female,2:44 PM,7,44,Black,Pants,€ 89.00,7/15/2015
+Tokyo,Asics,MB1878,Male,3:02 PM,7,37,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,MB1878,Male,3:14 PM,7,41,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,MB1878,Male,4:37 PM,7,41,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Asics,MB1878,Male,4:39 PM,7,39,Black,Pants,€ 99.00,7/15/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,7:00 PM,7,40-42,Black,Socks,€ 20.00,7/15/2015
+Tokyo,Adidas,Rocket Boost,Male,12:45 PM,7,46,Black,Shoe,€ 110.00,7/15/2015
+Tokyo,Adidas,Boston 5,Female,1:59 PM,7,36,Black,Shoe,€ 120.00,7/15/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,7:46 AM,7,46-48,Black,Socks,€ 21.00,7/16/2015
+Tokyo,Asics,Nimbus 17,Male,8:29 AM,7,41,Black,Shoe,€ 128.00,7/16/2015
+Tokyo,Asics,MB1878,Male,9:01 AM,7,43,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,10:46 AM,7,38-40,Black,Socks,€ 20.00,7/16/2015
+Tokyo,Asics,MB1878,Male,11:06 AM,7,40,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Asics,WB2585,Female,1:12 PM,7,41,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,2:34 PM,7,36-38,Black,Socks,€ 21.00,7/16/2015
+Tokyo,Asics,MB1878,Male,3:37 PM,7,41,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Asics,MB1878,Male,6:51 PM,7,41,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Asics,MB1878,Male,7:40 PM,7,43,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,8:32 PM,7,44-46,Black,Socks,€ 21.00,7/16/2015
+Tokyo,Asics,MB1878,Male,8:35 PM,7,38,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Asics,MB1878,Male,9:36 PM,7,37,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Asics,Nimbus 17,Male,10:24 PM,7,39,Black,Shoe,€ 128.00,7/16/2015
+Tokyo,Asics,WB2585,Female,10:10 AM,7,46,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,11:15 AM,7,44-46,Black,Socks,€ 21.00,7/16/2015
+Tokyo,Asics,MB1878,Male,11:38 AM,7,36,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Asics,MB1878,Male,12:45 PM,7,42,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Asics,MB1878,Male,1:03 PM,7,45,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Asics,MB1878,Male,1:16 PM,7,42,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Nike,Pro Classic,Female,2:09 PM,7,75B,Black,Bra,€ 100.00,7/16/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,2:30 PM,7,36-38,Black,Socks,€ 20.00,7/16/2015
+Tokyo,Asics,WB2585,Female,2:58 PM,7,38,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Asics,WB1820,Female,3:09 PM,7,46,Black,Pants,€ 89.00,7/16/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,3:44 PM,7,46-48,Black,Socks,€ 12.99,7/16/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,3:45 PM,7,42-44,Black,Socks,€ 20.00,7/16/2015
+Tokyo,Nike,Pro Fierce,Female,3:58 PM,7,85A,Black,Bra,€ 149.00,7/16/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,4:26 PM,7,42-44,Black,Socks,€ 21.00,7/16/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,4:52 PM,7,40-42,Black,Socks,€ 21.00,7/16/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,4:54 PM,7,36-38,Black,Socks,€ 19.00,7/16/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,5:42 PM,7,42-44,Black,Socks,€ 20.00,7/16/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,10:53 AM,7,38-40,Black,Socks,€ 19.00,7/16/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,11:24 AM,7,46-48,Black,Socks,€ 24.99,7/16/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,11:42 AM,7,40-42,Black,Socks,€ 20.00,7/16/2015
+Tokyo,Asics,MB1878,Male,1:55 PM,7,41,Black,Pants,€ 99.00,7/16/2015
+Tokyo,Asics,Cummulus 17,Male,8:11 PM,7,40,Black,Shoe,€ 159.00,7/16/2015
+Tokyo,Nike,Pro Indy,Female,8:38 PM,7,65E,Black,Bra,€ 123.00,7/16/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,9:01 PM,7,40-42,Black,Socks,€ 19.00,7/16/2015
+Tokyo,Adidas,Boston 5,Male,2:04 PM,7,37,Black,Shoe,€ 125.00,7/16/2015
+Tokyo,Adidas,Rocket Boost,Male,11:58 AM,7,43,Black,Shoe,€ 110.00,7/16/2015
+Tokyo,Adidas,Boston 5,Male,3:27 PM,7,46,Black,Shoe,€ 125.00,7/16/2015
+Tokyo,Adidas,Rocket Boost,Male,9:37 AM,7,46,Black,Shoe,€ 110.00,7/16/2015
+Tokyo,Adidas,Rocket Boost,Female,11:07 AM,7,41,Black,Shoe,€ 100.00,7/16/2015
+Tokyo,Asics,MB1878,Male,9:10 AM,7,39,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,MB1878,Male,10:32 AM,7,43,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,MB1878,Male,11:26 AM,7,38,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,WB2585,Female,2:36 PM,7,37,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,MB1878,Male,5:54 PM,7,36,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,WB1820,Female,6:00 PM,7,40,Black,Pants,€ 89.00,7/17/2015
+Tokyo,Asics,WB2585,Female,6:12 PM,7,44,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,WB1820,Female,6:36 PM,7,41,Black,Pants,€ 89.00,7/17/2015
+Tokyo,Asics,MB1878,Male,6:54 PM,7,38,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,WB1820,Female,7:58 PM,7,44,Black,Pants,€ 89.00,7/17/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,11:24 PM,7,42-44,Black,Socks,€ 21.00,7/17/2015
+Tokyo,Asics,WB2585,Female,10:02 AM,7,39,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,MB1878,Male,10:13 AM,7,41,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Nike,Pro Fierce,Female,10:31 AM,7,75A,Black,Bra,€ 149.00,7/17/2015
+Tokyo,Asics,WB1820,Female,10:49 AM,7,41,Black,Pants,€ 89.00,7/17/2015
+Tokyo,Asics,WB2585,Female,10:56 AM,7,36,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,MB1878,Male,11:07 AM,7,36,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,MB1878,Male,11:19 AM,7,38,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,WB1820,Female,11:20 AM,7,38,Black,Pants,€ 89.00,7/17/2015
+Tokyo,Asics,MB1878,Male,11:24 AM,7,41,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,12:34 PM,7,40-42,Black,Socks,€ 19.00,7/17/2015
+Tokyo,Asics,WB2585,Female,12:40 PM,7,39,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Nike,Pro Hero,Female,12:50 PM,7,80A,Black,Bra,€ 99.00,7/17/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,1:12 PM,7,42-44,Black,Socks,€ 20.00,7/17/2015
+Tokyo,Asics,WB1820,Female,1:18 PM,7,42,Black,Pants,€ 89.00,7/17/2015
+Tokyo,Nike,Free 5.0,Female,2:02 PM,7,43,Black,Shoe,€ 239.00,7/17/2015
+Tokyo,Asics,MB1878,Male,2:02 PM,7,39,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,MB1878,Male,2:32 PM,7,38,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Asics,WB2585,Female,2:56 PM,7,41,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,3:36 PM,7,40-42,Black,Socks,€ 20.00,7/17/2015
+Tokyo,Asics,Cummulus 17,Male,4:20 PM,7,41,Black,Shoe,€ 159.00,7/17/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,4:57 PM,7,40-42,Black,Socks,€ 21.00,7/17/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,4:57 PM,7,46-48,Black,Socks,€ 20.00,7/17/2015
+Tokyo,Asics,MB1878,Male,8:58 AM,7,46,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Nike,Pro Fierce,Female,10:55 AM,7,70B,Black,Bra,€ 149.00,7/17/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,11:08 AM,7,46-48,Black,Socks,€ 20.00,7/17/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,11:51 AM,7,38-40,Black,Socks,€ 20.00,7/17/2015
+Tokyo,Nike,Pro Fierce,Female,12:33 PM,7,65E,Black,Bra,€ 149.00,7/17/2015
+Tokyo,Asics,MB1878,Male,2:41 PM,7,38,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,3:00 PM,7,46-48,Black,Socks,€ 21.00,7/17/2015
+Tokyo,Asics,MB1878,Male,3:34 PM,7,38,Black,Pants,€ 99.00,7/17/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,6:21 PM,7,36-38,Black,Socks,€ 20.00,7/17/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,9:30 PM,7,42-44,Black,Socks,€ 20.00,7/17/2015
+Tokyo,Adidas,Rocket Boost,Male,12:24 PM,7,43,Black,Shoe,€ 110.00,7/17/2015
+Tokyo,Adidas,Rocket Boost,Male,10:21 AM,7,44,Black,Shoe,€ 110.00,7/17/2015
+Tokyo,Asics,MB1878,Male,7:13 AM,7,44,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,WB2585,Female,7:13 AM,7,39,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,WB2585,Female,8:16 AM,7,45,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,WB2585,Female,8:44 AM,7,39,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,MB1878,Male,8:49 AM,7,37,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,MB1878,Male,9:43 AM,7,41,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,WB1820,Female,11:28 AM,7,44,Black,Pants,€ 89.00,7/18/2015
+Tokyo,Asics,WB2585,Female,12:04 PM,7,44,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,MB1878,Male,1:07 PM,7,36,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,MB1878,Male,1:17 PM,7,42,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,WB2585,Female,2:09 PM,7,43,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,WB1820,Female,3:15 PM,7,43,Black,Pants,€ 89.00,7/18/2015
+Tokyo,Asics,MB1878,Male,3:23 PM,7,38,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,MB1878,Male,6:24 PM,7,38,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,WB2585,Female,7:17 PM,7,39,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,MB1878,Male,10:06 PM,7,43,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,11:44 PM,7,42-44,Black,Socks,€ 20.00,7/18/2015
+Tokyo,Asics,MB1878,Male,10:05 AM,7,38,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,10:23 AM,7,42-44,Black,Socks,€ 20.00,7/18/2015
+Tokyo,Asics,MB1878,Male,11:01 AM,7,41,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,11:09 AM,7,36-38,Black,Socks,€ 24.99,7/18/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,11:22 AM,7,36-38,Black,Socks,€ 21.00,7/18/2015
+Tokyo,Asics,MB1878,Male,12:24 PM,7,41,Black,Pants,€ 99.00,7/18/2015
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,12:32 PM,7,44-46,Black,Socks,€ 20.00,7/18/2015
+Rotterdam,Nike,Hyper Elite Crew,Unisex,12:42 PM,7,44-46,Black,Socks,€ 20.00,7/18/2015
+Rotterdam,Nike,Pro Classic,Female,12:52 PM,7,90D,Black,Bra,€ 100.00,7/18/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,1:46 PM,7,38-40,Black,Socks,€ 19.00,7/18/2015
+Rotterdam,Nike,Hyper Elite Crew,Unisex,1:52 PM,7,46-48,Black,Socks,€ 20.00,7/18/2015
+Tokyo,Asics,WB2585,Female,2:06 PM,7,45,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,3:09 PM,7,40-42,Black,Socks,€ 24.99,7/18/2015
+Rotterdam,Nike,Free 5.0,Male,3:16 PM,7,39,Black,Shoe,€ 239.00,7/18/2015
+Tokyo,Asics,MB1878,Male,3:44 PM,7,42,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,MB1878,Male,3:49 PM,7,42,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,MB1878,Male,5:10 PM,7,44,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Asics,WB1820,Female,8:29 AM,7,42,Black,Pants,€ 89.00,7/18/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,10:52 AM,7,36-38,Black,Socks,€ 12.99,7/18/2015
+Tokyo,Nike,Air Zoom,Female,11:31 AM,7,41,Black,Shoe,€ 230.00,7/18/2015
+Tokyo,Asics,MB1878,Male,12:48 PM,7,46,Black,Pants,€ 99.00,7/18/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,12:59 PM,7,38-40,Black,Socks,€ 21.00,7/18/2015
+Tokyo,Asics,WB1820,Female,3:27 PM,7,41,Black,Pants,€ 89.00,7/18/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,5:54 PM,7,42-44,Black,Socks,€ 21.00,7/18/2015
+Tokyo,Asics,WB1820,Female,8:08 PM,7,46,Black,Pants,€ 89.00,7/18/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,8:38 PM,7,42-44,Black,Socks,€ 21.00,7/18/2015
+Tokyo,Asics,WB1820,Female,9:24 PM,7,38,Black,Pants,€ 89.00,7/18/2015
+Tokyo,Adidas,Rocket Boost,Male,4:31 PM,7,44,Black,Shoe,€ 110.00,7/18/2015
+Tokyo,Adidas,Boston 5,Male,1:28 PM,7,43,Black,Shoe,€ 125.00,7/18/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,9:11 AM,7,46-48,Black,Socks,€ 19.00,7/19/2015
+Tokyo,Asics,WB2585,Female,10:24 AM,7,43,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,2:52 PM,7,40-42,Black,Socks,€ 20.00,7/19/2015
+Tokyo,Asics,WB1820,Female,2:52 PM,7,46,Black,Pants,€ 89.00,7/19/2015
+Tokyo,Asics,MB1878,Male,3:21 PM,7,43,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Asics,MB1878,Male,3:27 PM,7,41,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Asics,MB1878,Male,7:30 PM,7,44,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Asics,WB1820,Female,8:31 PM,7,45,Black,Pants,€ 89.00,7/19/2015
+Tokyo,Asics,Cummulus 17,Male,9:54 PM,7,44,Black,Shoe,€ 159.00,7/19/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,9:54 PM,7,46-48,Black,Socks,€ 12.99,7/19/2015
+Tokyo,Asics,WB2585,Female,10:16 PM,7,44,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,10:29 PM,7,42-44,Black,Socks,€ 24.99,7/19/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,11:42 PM,7,44-46,Black,Socks,€ 20.00,7/19/2015
+Tokyo,Asics,WB1820,Female,11:45 PM,7,45,Black,Pants,€ 89.00,7/19/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,10:21 AM,7,42-44,Black,Socks,€ 21.00,7/19/2015
+Rotterdam,Adidas,Ultra Boost,Female,11:42 AM,7,42,Black,Shoe,€ 139.00,7/19/2015
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,12:37 PM,7,38-40,Black,Socks,€ 20.00,7/19/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,12:55 PM,7,40-42,Black,Socks,€ 21.00,7/19/2015
+Tokyo,Asics,MB1878,Male,1:13 PM,7,36,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Asics,MB1878,Male,1:25 PM,7,46,Black,Pants,€ 99.00,7/19/2015
+Rotterdam,Nike,Pro Hero,Female,1:25 PM,7,65C,Black,Bra,€ 99.00,7/19/2015
+Tokyo,Asics,MB1878,Male,1:39 PM,7,40,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Asics,MB1878,Male,1:41 PM,7,45,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,2:20 PM,7,44-46,Black,Socks,€ 24.99,7/19/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,2:48 PM,7,38-40,Black,Socks,€ 12.99,7/19/2015
+Tokyo,Asics,MB1878,Male,3:03 PM,7,43,Black,Pants,€ 99.00,7/19/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,3:29 PM,7,46-48,Black,Socks,€ 21.00,7/19/2015
+Tokyo,Asics,MB1878,Male,3:49 PM,7,36,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Asics,MB1878,Male,5:30 PM,7,41,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Asics,MB1878,Male,8:39 AM,7,45,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,10:09 AM,7,44-46,Black,Socks,€ 21.00,7/19/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,12:28 PM,7,46-48,Black,Socks,€ 24.99,7/19/2015
+Tokyo,Asics,MB1878,Male,1:00 PM,7,38,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Nike,Pro Fierce,Female,2:08 PM,7,70F,Black,Bra,€ 149.00,7/19/2015
+Tokyo,Asics,MB1878,Male,3:21 PM,7,43,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,4:53 PM,7,40-42,Black,Socks,€ 12.99,7/19/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,5:49 PM,7,42-44,Black,Socks,€ 24.99,7/19/2015
+Tokyo,Nike,Pro Fierce,Female,6:14 PM,7,80C,Black,Bra,€ 149.00,7/19/2015
+Tokyo,Asics,MB1878,Male,6:48 PM,7,41,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Nike,Pro Fierce,Female,7:07 PM,7,80F,Black,Bra,€ 149.00,7/19/2015
+Tokyo,Asics,MB1878,Male,8:09 PM,7,38,Black,Pants,€ 99.00,7/19/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,9:24 PM,7,40-42,Black,Socks,€ 20.00,7/19/2015
+Tokyo,Adidas,Boston 5,Male,2:35 PM,7,36,Black,Shoe,€ 125.00,7/19/2015
+Tokyo,Adidas,Boston 5,Female,11:56 AM,7,44,Black,Shoe,€ 120.00,7/19/2015
+Tokyo,Asics,MB1878,Male,7:55 AM,7,41,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,8:34 AM,7,42-44,Black,Socks,€ 19.00,7/20/2015
+Tokyo,Asics,MB1878,Male,10:23 AM,7,39,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,MB1878,Male,11:41 AM,7,36,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,MB1878,Male,3:11 PM,7,36,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,Cummulus 17,Male,4:46 PM,7,37,Black,Shoe,€ 159.00,7/20/2015
+Tokyo,Asics,MB1878,Male,5:31 PM,7,36,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,WB1820,Female,7:52 PM,7,44,Black,Pants,€ 89.00,7/20/2015
+Tokyo,Asics,MB1878,Male,8:15 PM,7,44,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,10:30 PM,7,44-46,Black,Socks,€ 24.99,7/20/2015
+Tokyo,Asics,MB1878,Male,10:59 PM,7,45,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,10:00 AM,7,36-38,Black,Socks,€ 24.99,7/20/2015
+Rotterdam,Nike,Elite Compression,Unisex,10:08 AM,7,38-40,Black,Socks,€ 23.99,7/20/2015
+Tokyo,Asics,MB1878,Male,10:12 AM,7,37,Black,Pants,€ 99.00,7/20/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,11:25 AM,7,42-44,Black,Socks,€ 21.00,7/20/2015
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,11:30 AM,7,42-44,Black,Socks,€ 20.00,7/20/2015
+Tokyo,Asics,MB1878,Male,11:37 AM,7,44,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,WB1820,Female,11:56 AM,7,41,Black,Pants,€ 89.00,7/20/2015
+Tokyo,Asics,MB1878,Male,1:10 PM,7,40,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,MB1878,Male,2:30 PM,7,39,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,WB2585,Female,2:58 PM,7,45,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,MB1878,Male,3:01 PM,7,41,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,WB1820,Female,3:08 PM,7,43,Black,Pants,€ 89.00,7/20/2015
+Tokyo,Asics,MB1878,Male,3:27 PM,7,40,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,3:39 PM,7,46-48,Black,Socks,€ 24.99,7/20/2015
+Tokyo,Asics,WB2585,Female,4:31 PM,7,46,Black,Pants,€ 99.00,7/20/2015
+Rotterdam,Nike,Elite Compression,Unisex,5:15 PM,7,42-44,Black,Socks,€ 23.99,7/20/2015
+Tokyo,Asics,MB1878,Male,10:06 AM,7,41,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,10:56 AM,7,42-44,Black,Socks,€ 12.99,7/20/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,11:38 AM,7,44-46,Black,Socks,€ 21.00,7/20/2015
+Tokyo,Asics,MB1878,Male,1:24 PM,7,45,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Nike,Pro Classic,Female,1:58 PM,7,70D,Black,Bra,€ 100.00,7/20/2015
+Tokyo,Asics,MB1878,Male,2:34 PM,7,46,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,2:47 PM,7,38-40,Black,Socks,€ 24.99,7/20/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,3:04 PM,7,40-42,Black,Socks,€ 20.00,7/20/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,3:25 PM,7,36-38,Black,Socks,€ 24.99,7/20/2015
+Tokyo,Asics,MB1878,Male,7:03 PM,7,42,Black,Pants,€ 99.00,7/20/2015
+Tokyo,Adidas,Rocket Boost,Male,12:58 PM,7,44,Black,Shoe,€ 110.00,7/20/2015
+Tokyo,Adidas,Boston 5,Male,5:25 PM,7,44,Black,Shoe,€ 125.00,7/20/2015
+Tokyo,Asics,MB1878,Male,7:19 AM,7,39,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,MB1878,Male,7:45 AM,7,46,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Nike,Pro Fierce,Female,8:03 AM,7,70B,Black,Bra,€ 149.00,7/21/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,9:31 AM,7,44-46,Black,Socks,€ 21.00,7/21/2015
+Tokyo,Asics,MB1878,Male,9:50 AM,7,46,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,MB1878,Male,10:53 AM,7,38,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,11:35 AM,7,44-46,Black,Socks,€ 20.00,7/21/2015
+Tokyo,Asics,WB2585,Female,12:30 PM,7,39,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,MB1878,Male,5:51 PM,7,44,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,WB1820,Female,7:33 PM,7,39,Black,Pants,€ 89.00,7/21/2015
+Tokyo,Asics,MB1878,Male,8:31 PM,7,36,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,MB1878,Male,8:49 PM,7,40,Black,Pants,€ 99.00,7/21/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,9:37 AM,7,38-40,Black,Socks,€ 21.00,7/21/2015
+Tokyo,Asics,MB1878,Male,9:37 AM,7,39,Black,Pants,€ 99.00,7/21/2015
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,9:40 AM,7,40-42,Black,Socks,€ 20.00,7/21/2015
+Tokyo,Asics,MB1878,Male,9:50 AM,7,36,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,WB2585,Female,10:05 AM,7,36,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,WB1820,Female,10:49 AM,7,43,Black,Pants,€ 89.00,7/21/2015
+Rotterdam,Nike,Hyper Elite Crew,Unisex,10:54 AM,7,40-42,Black,Socks,€ 20.00,7/21/2015
+Tokyo,Asics,MB1878,Male,11:04 AM,7,38,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,11:24 AM,7,40-42,Black,Socks,€ 24.99,7/21/2015
+Tokyo,Asics,MB1878,Male,11:25 AM,7,36,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,WB1820,Female,11:38 AM,7,36,Black,Pants,€ 89.00,7/21/2015
+Tokyo,Asics,MB1878,Male,11:42 AM,7,46,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,MB1878,Male,11:53 AM,7,36,Black,Pants,€ 99.00,7/21/2015
+Rotterdam,Nike,Pro Fierce,Female,12:58 PM,7,85D,Black,Bra,€ 149.00,7/21/2015
+Tokyo,Asics,WB2585,Female,1:13 PM,7,36,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,1:21 PM,7,46-48,Black,Socks,€ 19.00,7/21/2015
+Tokyo,Asics,MB1878,Male,1:28 PM,7,41,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,MB1878,Male,2:01 PM,7,38,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,MB1878,Male,2:10 PM,7,41,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,2:25 PM,7,40-42,Black,Socks,€ 19.00,7/21/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,2:30 PM,7,42-44,Black,Socks,€ 19.00,7/21/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,3:32 PM,7,42-44,Black,Socks,€ 12.99,7/21/2015
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,3:32 PM,7,46-48,Black,Socks,€ 20.00,7/21/2015
+Tokyo,Asics,WB2585,Female,4:31 PM,7,43,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,WB1820,Female,5:28 PM,7,36,Black,Pants,€ 89.00,7/21/2015
+Tokyo,Asics,Cummulus 17,Male,9:34 AM,7,40,Black,Shoe,€ 159.00,7/21/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,10:20 AM,7,40-42,Black,Socks,€ 24.99,7/21/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,10:32 AM,7,40-42,Black,Socks,€ 20.00,7/21/2015
+Tokyo,Nike,Pro Indy,Female,10:52 AM,7,75E,Black,Bra,€ 123.00,7/21/2015
+Tokyo,Nike,Pro Indy,Female,12:23 PM,7,85C,Black,Bra,€ 123.00,7/21/2015
+Tokyo,Asics,MB1878,Male,1:45 PM,7,38,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,MB1878,Male,2:13 PM,7,43,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,MB1878,Male,2:29 PM,7,46,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,Nimbus 17,Male,2:31 PM,7,41,Black,Shoe,€ 128.00,7/21/2015
+Tokyo,Asics,MB1878,Male,4:24 PM,7,43,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,4:58 PM,7,42-44,Black,Socks,€ 19.00,7/21/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,5:28 PM,7,44-46,Black,Socks,€ 21.00,7/21/2015
+Tokyo,Nike,Pro Fierce,Female,5:29 PM,7,80B,Black,Bra,€ 149.00,7/21/2015
+Tokyo,Asics,MB1878,Male,6:21 PM,7,40,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,7:04 PM,7,40-42,Black,Socks,€ 20.00,7/21/2015
+Tokyo,Asics,MB1878,Male,8:58 PM,7,38,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,MB1878,Male,9:01 PM,7,37,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,MB1878,Male,9:12 PM,7,43,Black,Pants,€ 99.00,7/21/2015
+Tokyo,Asics,WB1820,Female,11:09 PM,7,44,Black,Pants,€ 89.00,7/21/2015
+Tokyo,Adidas,Ultra Boost,Female,12:32 PM,7,40,Black,Shoe,€ 139.00,7/21/2015
+Tokyo,Adidas,Boston 5,Female,11:07 AM,7,38,Black,Shoe,€ 120.00,7/21/2015
+Tokyo,Asics,MB1878,Male,8:38 AM,7,36,Black,Pants,€ 99.00,7/22/2015
+Tokyo,Asics,MB1878,Male,8:45 AM,7,44,Black,Pants,€ 99.00,7/22/2015
+Tokyo,Asics,MB1878,Male,12:01 PM,7,36,Black,Pants,€ 99.00,7/22/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,1:22 PM,7,42-44,Black,Socks,€ 21.00,7/22/2015
+Tokyo,Asics,WB1820,Female,1:32 PM,7,43,Black,Pants,€ 89.00,7/22/2015
+Tokyo,Asics,MB1878,Male,2:41 PM,7,41,Black,Pants,€ 99.00,7/22/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,4:52 PM,7,42-44,Black,Socks,€ 12.99,7/22/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,4:58 PM,7,44-46,Black,Socks,€ 24.99,7/22/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,7:35 PM,7,36-38,Black,Socks,€ 24.99,7/22/2015
+Tokyo,Nike,Pro Hero,Female,8:41 PM,7,70E,Black,Bra,€ 99.00,7/22/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,9:27 PM,7,38-40,Black,Socks,€ 24.99,7/22/2015
+Tokyo,Asics,WB1820,Female,9:37 PM,7,46,Black,Pants,€ 89.00,7/22/2015
+Tokyo,Asics,WB2585,Female,9:38 PM,7,45,Black,Pants,€ 99.00,7/22/2015
+Tokyo,Asics,WB1820,Female,11:00 PM,7,39,Black,Pants,€ 89.00,7/22/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,9:42 AM,7,38-40,Black,Socks,€ 21.00,7/22/2015
+Tokyo,Asics,MB1878,Male,10:02 AM,7,45,Black,Pants,€ 99.00,7/22/2015
+Tokyo,Asics,MB1878,Male,11:01 AM,7,37,Black,Pants,€ 99.00,7/22/2015
+Tokyo,Asics,MB1878,Male,11:19 AM,7,44,Black,Pants,€ 99.00,7/22/2015
+Tokyo,Asics,MB1878,Male,12:08 PM,7,43,Black,Pants,€ 99.00,7/22/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,12:16 PM,7,44-46,Black,Socks,€ 21.00,7/22/2015
+Tokyo,Asics,WB1820,Female,12:37 PM,7,36,Black,Pants,€ 89.00,7/22/2015
+Tokyo,Asics,MB1878,Male,1:00 PM,7,46,Black,Pants,€ 99.00,7/22/2015
+Tokyo,Asics,MB1878,Male,1:03 PM,7,40,Black,Pants,€ 99.00,7/22/2015
+Tokyo,Asics,MB1878,Male,1:18 PM,7,37,Black,Pants,€ 99.00,7/22/2015
+Rotterdam,Nike,Elite Compression,Unisex,1:18 PM,7,40-42,Black,Socks,€ 23.99,7/22/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,2:07 PM,7,42-44,Black,Socks,€ 21.00,7/22/2015
+Rotterdam,Asics,MB1878,Male,2:42 PM,7,36,Black,Pants,€ 99.00,7/22/2015
+Rotterdam,Asics,MB1878,Male,2:51 PM,7,42,Black,Pants,€ 99.00,7/22/2015
+Rotterdam,Asics,Gel Quantics ,Male,2:56 PM,7,45,Black,Shoe,€ 120.00,7/22/2015
+Rotterdam,Asics,Hera Deux Single Tab,Female,3:19 PM,7,38-40,Black,Socks,€ 12.99,7/22/2015
+Rotterdam,Asics,MB1878,Male,4:30 PM,7,43,Black,Pants,€ 99.00,7/22/2015
+Rotterdam,Asics,MB1878,Male,4:39 PM,7,46,Black,Pants,€ 99.00,7/22/2015
+Rotterdam,Nike,Pro Indy,Female,5:17 PM,7,90D,Black,Bra,€ 123.00,7/22/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,5:32 PM,7,46-48,Black,Socks,€ 21.00,7/22/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,9:20 AM,7,36-38,Black,Socks,€ 21.00,7/22/2015
+Tokyo,Asics,MB1878,Male,11:38 AM,7,36,Black,Pants,€ 99.00,7/22/2015
+Tokyo,Asics,MB1878,Male,1:01 PM,7,37,Black,Pants,€ 99.00,7/22/2015
+Tokyo,Asics,WB1820,Female,2:31 PM,7,44,Black,Pants,€ 89.00,7/22/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,3:37 PM,7,38-40,Black,Socks,€ 21.00,7/22/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,4:58 PM,7,46-48,Black,Socks,€ 24.99,7/22/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,6:04 PM,7,40-42,Black,Socks,€ 24.99,7/22/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,10:35 PM,7,44-46,Black,Socks,€ 21.00,7/22/2015
+Tokyo,Asics,MB1878,Male,11:06 PM,7,44,Black,Pants,€ 99.00,7/22/2015
+Tokyo,Nike,Pro Fierce,Female,11:16 PM,7,85D,Black,Bra,€ 149.00,7/22/2015
+Tokyo,Adidas,Rocket Boost,Male,1:52 PM,7,44,Black,Shoe,€ 110.00,7/22/2015
+Tokyo,Adidas,Rocket Boost,Male,3:34 PM,7,45,Black,Shoe,€ 110.00,7/22/2015
+Tokyo,Adidas,Rocket Boost,Female,1:44 PM,7,45,Black,Shoe,€ 100.00,7/22/2015
+Tokyo,Adidas,Rocket Boost,Male,11:09 AM,7,43,Black,Shoe,€ 110.00,7/22/2015
+Tokyo,Adidas,Rocket Boost,Female,11:20 AM,7,42,Black,Shoe,€ 100.00,7/22/2015
+Tokyo,Asics,MB1878,Male,9:31 AM,7,45,Black,Pants,€ 99.00,7/23/2015
+Tokyo,Asics,WB1820,Female,10:01 AM,7,46,Black,Pants,€ 89.00,7/23/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,10:26 AM,7,38-40,Black,Socks,€ 21.00,7/23/2015
+Tokyo,Asics,Cummulus 17,Male,12:40 PM,7,42,Black,Shoe,€ 159.00,7/23/2015
+Tokyo,Asics,WB2585,Female,2:28 PM,7,45,Black,Pants,€ 99.00,7/23/2015
+Tokyo,Asics,MB1878,Male,2:52 PM,7,45,Black,Pants,€ 99.00,7/23/2015
+Tokyo,Asics,WB2585,Female,3:31 PM,7,40,Black,Pants,€ 99.00,7/23/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,4:27 PM,7,38-40,Black,Socks,€ 24.99,7/23/2015
+Tokyo,Asics,MB1878,Male,5:44 PM,7,44,Black,Pants,€ 99.00,7/23/2015
+Tokyo,Asics,MB1878,Male,6:47 PM,7,46,Black,Pants,€ 99.00,7/23/2015
+Tokyo,Asics,WB2585,Female,6:56 PM,7,38,Black,Pants,€ 99.00,7/23/2015
+Tokyo,Asics,Nimbus 17,Male,7:30 PM,7,39,Black,Shoe,€ 128.00,7/23/2015
+Tokyo,Asics,MB1878,Male,7:56 PM,7,40,Black,Pants,€ 99.00,7/23/2015
+Tokyo,Asics,MB1878,Male,8:16 PM,7,42,Black,Pants,€ 99.00,7/23/2015
+Tokyo,Adidas,Boston 5,Male,9:15 PM,7,37,Black,Shoe,€ 120.00,7/23/2015
+Tokyo,Asics,WB2585,Female,9:31 PM,7,36,Black,Pants,€ 99.00,7/23/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,9:33 PM,7,42-44,Black,Socks,€ 19.00,7/23/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,9:59 PM,7,42-44,Black,Socks,€ 19.00,7/23/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,10:19 PM,7,42-44,Black,Socks,€ 12.99,7/23/2015
+Tokyo,Asics,WB1820,Female,10:20 PM,7,40,Black,Pants,€ 89.00,7/23/2015
+Tokyo,Asics,MB1878,Male,11:18 PM,7,42,Black,Pants,€ 99.00,7/23/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,11:57 PM,7,44-46,Black,Socks,€ 20.00,7/23/2015
+Rotterdam,Asics,MB1878,Male,10:13 AM,7,39,Black,Pants,€ 99.00,7/23/2015
+Rotterdam,Asics,Kayano Single Tab,Unisex,11:04 AM,7,38-40,Black,Socks,€ 24.99,7/23/2015
+Rotterdam,Asics,MB1878,Male,11:24 AM,7,45,Black,Pants,€ 99.00,7/23/2015
+Rotterdam,Asics,WB2585,Female,11:30 AM,7,39,Black,Pants,€ 99.00,7/23/2015
+Rotterdam,Asics,MB1878,Male,12:26 PM,7,42,Black,Pants,€ 99.00,7/23/2015
+Rotterdam,Asics,MB1878,Male,12:58 PM,7,37,Black,Pants,€ 99.00,7/23/2015
+Rotterdam,Nike,Air Zoom,Female,1:21 PM,7,46,Black,Shoe,€ 230.00,7/23/2015
+Rotterdam,Asics,MB1878,Male,1:23 PM,7,46,Black,Pants,€ 99.00,7/23/2015
+Rotterdam,Asics,MB1878,Male,2:55 PM,7,38,Black,Pants,€ 99.00,7/23/2015
+Rotterdam,Nike,Hyper Elite Crew,Unisex,3:26 PM,7,42-44,Black,Socks,€ 20.00,7/23/2015
+Rotterdam,Asics,MB1878,Male,3:57 PM,7,43,Black,Pants,€ 99.00,7/23/2015
+Rotterdam,Asics,MB1878,Male,4:25 PM,7,40,Black,Pants,€ 99.00,7/23/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,8:28 AM,7,38-40,Black,Socks,€ 24.99,7/23/2015
+Tokyo,Asics,MB1878,Male,9:53 AM,7,39,Black,Pants,€ 99.00,7/23/2015
+Tokyo,Nike,Pro Fierce,Female,10:22 AM,7,75B,Black,Bra,€ 149.00,7/23/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,3:18 PM,7,38-40,Black,Socks,€ 21.00,7/23/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,3:23 PM,7,36-38,Black,Socks,€ 20.00,7/23/2015
+Tokyo,Nike,Free 5.0,Female,7:43 PM,7,38,Black,Shoe,€ 239.00,7/23/2015
+Tokyo,Asics,WB1820,Female,8:05 PM,7,39,Black,Pants,€ 89.00,7/23/2015
+Tokyo,Adidas,Boston 5,Male,5:28 PM,7,39,Black,Shoe,€ 125.00,7/23/2015
+Tokyo,Asics,WB2585,Female,7:16 AM,7,40,Black,Pants,€ 99.00,7/24/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,7:36 AM,7,44-46,Black,Socks,€ 20.00,7/24/2015
+Tokyo,Asics,WB2585,Female,8:02 AM,7,36,Black,Pants,€ 99.00,7/24/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,9:41 AM,7,42-44,Black,Socks,€ 24.99,7/24/2015
+Tokyo,Asics,WB1820,Female,12:57 PM,7,44,Black,Pants,€ 89.00,7/24/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,1:14 PM,7,40-42,Black,Socks,€ 21.00,7/24/2015
+Tokyo,Asics,WB2585,Female,1:19 PM,7,46,Black,Pants,€ 99.00,7/24/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,2:26 PM,7,40-42,Black,Socks,€ 21.00,7/24/2015
+Tokyo,Asics,MB1878,Male,4:06 PM,7,46,Black,Pants,€ 99.00,7/24/2015
+Tokyo,Asics,MB1878,Male,4:16 PM,7,40,Black,Pants,€ 99.00,7/24/2015
+Tokyo,Asics,MB1878,Male,4:27 PM,7,41,Black,Pants,€ 99.00,7/24/2015
+Tokyo,Asics,MB1878,Male,5:25 PM,7,42,Black,Pants,€ 99.00,7/24/2015
+Tokyo,Asics,MB1878,Male,6:08 PM,7,46,Black,Pants,€ 99.00,7/24/2015
+Tokyo,Asics,MB1878,Male,6:08 PM,7,42,Black,Pants,€ 99.00,7/24/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,6:48 PM,7,44-46,Black,Socks,€ 21.00,7/24/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,7:30 PM,7,44-46,Black,Socks,€ 19.00,7/24/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,8:26 PM,7,46-48,Black,Socks,€ 19.00,7/24/2015
+Tokyo,Asics,WB1820,Female,10:19 PM,7,44,Black,Pants,€ 89.00,7/24/2015
+Rotterdam,Asics,WB2585,Female,9:39 AM,7,39,Black,Pants,€ 99.00,7/24/2015
+Rotterdam,Asics,Quick Light Cushion,Unisex,9:55 AM,7,46-48,Black,Socks,€ 19.00,7/24/2015
+Rotterdam,Asics,MB1878,Male,10:34 AM,7,41,Black,Pants,€ 99.00,7/24/2015
+Rotterdam,Nike,Pro Fierce,Female,10:36 AM,7,80F,Black,Bra,€ 149.00,7/24/2015
+Rotterdam,Asics,WB2585,Female,11:09 AM,7,46,Black,Pants,€ 99.00,7/24/2015
+Rotterdam,Asics,Quick Light Cushion,Unisex,11:14 AM,7,38-40,Black,Socks,€ 19.00,7/24/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,11:17 AM,7,46-48,Black,Socks,€ 21.00,7/24/2015
+Rotterdam,Asics,MB1878,Male,12:01 PM,7,46,Black,Pants,€ 99.00,7/24/2015
+Rotterdam,Nike,Pro Fierce,Female,12:03 PM,7,80C,Black,Bra,€ 149.00,7/24/2015
+Rotterdam,Asics,MB1878,Male,12:13 PM,7,36,Black,Pants,€ 99.00,7/24/2015
+Rotterdam,Asics,Hera Deux Single Tab,Female,12:13 PM,7,38-40,Black,Socks,€ 12.99,7/24/2015
+Rotterdam,Asics,WB1820,Female,12:18 PM,7,46,Black,Pants,€ 89.00,7/24/2015
+Rotterdam,Asics,MB1878,Male,12:26 PM,7,41,Black,Pants,€ 99.00,7/24/2015
+Rotterdam,Asics,WB1820,Female,12:31 PM,7,42,Black,Pants,€ 89.00,7/24/2015
+Rotterdam,Asics,MB1878,Male,1:10 PM,7,46,Black,Pants,€ 99.00,7/24/2015
+Rotterdam,Asics,MB1878,Male,1:28 PM,7,40,Black,Pants,€ 99.00,7/24/2015
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,2:24 PM,7,44-46,Black,Socks,€ 20.00,7/24/2015
+Rotterdam,Asics,WB2585,Female,2:28 PM,7,41,Black,Pants,€ 99.00,7/24/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,3:00 PM,7,36-38,Black,Socks,€ 21.00,7/24/2015
+Rotterdam,Asics,Quick Light Cushion,Unisex,3:42 PM,7,44-46,Black,Socks,€ 19.00,7/24/2015
+Rotterdam,Asics,Nimbus 17,Male,4:44 PM,7,44,Black,Shoe,€ 128.00,7/24/2015
+Rotterdam,Asics,MB1878,Male,4:56 PM,7,41,Black,Pants,€ 99.00,7/24/2015
+Rotterdam,Asics,MB1878,Male,5:09 PM,7,39,Black,Pants,€ 99.00,7/24/2015
+Rotterdam,Asics,MB1878,Male,5:20 PM,7,46,Black,Pants,€ 99.00,7/24/2015
+Rotterdam,Asics,WB2585,Female,5:35 PM,7,44,Black,Pants,€ 99.00,7/24/2015
+Tokyo,Asics,WB1820,Female,9:05 AM,7,43,Black,Pants,€ 89.00,7/24/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,11:03 AM,7,38-40,Black,Socks,€ 20.00,7/24/2015
+Tokyo,Asics,MB1878,Male,11:03 AM,7,41,Black,Pants,€ 99.00,7/24/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,1:12 PM,7,44-46,Black,Socks,€ 21.00,7/24/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,2:47 PM,7,38-40,Black,Socks,€ 21.00,7/24/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,3:01 PM,7,46-48,Black,Socks,€ 20.00,7/24/2015
+Tokyo,Asics,WB1820,Female,8:54 PM,7,41,Black,Pants,€ 89.00,7/24/2015
+Tokyo,Asics,WB1820,Female,9:08 PM,7,40,Black,Pants,€ 89.00,7/24/2015
+Tokyo,Nike,Pro Hero,Female,9:59 PM,7,75C,Black,Bra,€ 99.00,7/24/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,10:27 PM,7,42-44,Black,Socks,€ 20.00,7/24/2015
+Tokyo,Adidas,Rocket Boost,Female,4:46 PM,7,45,Black,Shoe,€ 100.00,7/24/2015
+Tokyo,Adidas,Boston 5,Male,3:11 PM,7,39,Black,Shoe,€ 125.00,7/24/2015
+Tokyo,Adidas,Rocket Boost,Male,2:20 PM,7,43,Black,Shoe,€ 110.00,7/24/2015
+Tokyo,Asics,MB1878,Male,9:12 AM,7,39,Black,Pants,€ 99.00,7/25/2015
+Tokyo,Asics,MB1878,Male,10:46 AM,7,46,Black,Pants,€ 99.00,7/25/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,10:46 AM,7,46-48,Black,Socks,€ 20.00,7/25/2015
+Tokyo,Nike,Pro Hero,Female,11:06 AM,7,70B,Black,Bra,€ 99.00,7/25/2015
+Tokyo,Asics,MB1878,Male,11:39 AM,7,46,Black,Pants,€ 99.00,7/25/2015
+Tokyo,Asics,MB1878,Male,12:18 PM,7,40,Black,Pants,€ 99.00,7/25/2015
+Tokyo,Asics,MB1878,Male,1:27 PM,7,41,Black,Pants,€ 99.00,7/25/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,1:33 PM,7,46-48,Black,Socks,€ 12.99,7/25/2015
+Tokyo,Asics,WB1820,Female,3:10 PM,7,42,Black,Pants,€ 89.00,7/25/2015
+Tokyo,Asics,Cummulus 17,Male,6:54 PM,7,46,Black,Shoe,€ 159.00,7/25/2015
+Tokyo,Asics,WB2585,Female,7:46 PM,7,46,Black,Pants,€ 99.00,7/25/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,7:52 PM,7,40-42,Black,Socks,€ 19.00,7/25/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,10:49 PM,7,46-48,Black,Socks,€ 19.00,7/25/2015
+Tokyo,Asics,WB1820,Female,11:00 PM,7,42,Black,Pants,€ 89.00,7/25/2015
+Tokyo,Asics,WB1820,Female,11:52 PM,7,39,Black,Pants,€ 89.00,7/25/2015
+Rotterdam,Asics,Kayano Single Tab,Unisex,9:54 AM,7,40-42,Black,Socks,€ 24.99,7/25/2015
+Rotterdam,Asics,MB1878,Male,10:28 AM,7,42,Black,Pants,€ 99.00,7/25/2015
+Rotterdam,Asics,WB2585,Female,10:59 AM,7,36,Black,Pants,€ 99.00,7/25/2015
+Rotterdam,Nike,Pro Classic,Female,11:32 AM,7,85D,Black,Bra,€ 100.00,7/25/2015
+Rotterdam,Asics,MB1878,Male,11:53 AM,7,40,Black,Pants,€ 99.00,7/25/2015
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,12:09 PM,7,44-46,Black,Socks,€ 20.00,7/25/2015
+Rotterdam,Asics,WB1820,Female,12:24 PM,7,45,Black,Pants,€ 89.00,7/25/2015
+Rotterdam,Asics,MB1878,Male,12:49 PM,7,44,Black,Pants,€ 99.00,7/25/2015
+Rotterdam,Asics,Kayano Single Tab,Unisex,1:36 PM,7,38-40,Black,Socks,€ 24.99,7/25/2015
+Rotterdam,Asics,Kayano Single Tab,Unisex,1:39 PM,7,38-40,Black,Socks,€ 24.99,7/25/2015
+Rotterdam,Asics,WB1820,Female,1:41 PM,7,37,Black,Pants,€ 89.00,7/25/2015
+Rotterdam,Asics,WB2585,Female,4:23 PM,7,38,Black,Pants,€ 99.00,7/25/2015
+Rotterdam,Nike,Pro Fierce,Female,4:56 PM,7,90B,Black,Bra,€ 149.00,7/25/2015
+Rotterdam,Asics,MB1878,Male,5:20 PM,7,46,Black,Pants,€ 99.00,7/25/2015
+Tokyo,Asics,WB1820,Female,8:47 AM,7,41,Black,Pants,€ 89.00,7/25/2015
+Tokyo,Asics,MB1878,Male,10:23 AM,7,43,Black,Pants,€ 99.00,7/25/2015
+Tokyo,Asics,MB1878,Male,10:36 AM,7,42,Black,Pants,€ 99.00,7/25/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,11:51 AM,7,46-48,Black,Socks,€ 20.00,7/25/2015
+Tokyo,Asics,MB1878,Male,2:28 PM,7,45,Black,Pants,€ 99.00,7/25/2015
+Tokyo,Asics,MB1878,Male,2:41 PM,7,41,Black,Pants,€ 99.00,7/25/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,4:01 PM,7,44-46,Black,Socks,€ 20.00,7/25/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,6:15 PM,7,36-38,Black,Socks,€ 20.00,7/25/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,8:00 PM,7,44-46,Black,Socks,€ 21.00,7/25/2015
+Tokyo,Adidas,Rocket Boost,Female,11:28 AM,7,44,Black,Shoe,€ 100.00,7/25/2015
+Tokyo,Asics,MB1878,Male,7:22 AM,7,40,Black,Pants,€ 99.00,7/26/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,9:41 AM,7,42-44,Black,Socks,€ 12.99,7/26/2015
+Tokyo,Asics,WB2585,Female,10:04 AM,7,41,Black,Pants,€ 99.00,7/26/2015
+Tokyo,Asics,WB2585,Female,10:22 AM,7,40,Black,Pants,€ 99.00,7/26/2015
+Tokyo,Asics,MB1878,Male,10:45 AM,7,42,Black,Pants,€ 99.00,7/26/2015
+Tokyo,Asics,MB1878,Male,12:27 PM,7,45,Black,Pants,€ 99.00,7/26/2015
+Tokyo,Asics,MB1878,Male,2:44 PM,7,42,Black,Pants,€ 99.00,7/26/2015
+Tokyo,Asics,MB1878,Male,3:28 PM,7,40,Black,Pants,€ 99.00,7/26/2015
+Tokyo,Asics,MB1878,Male,3:59 PM,7,36,Black,Pants,€ 99.00,7/26/2015
+Tokyo,Asics,MB1878,Male,4:37 PM,7,40,Black,Pants,€ 99.00,7/26/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,4:48 PM,7,44-46,Black,Socks,€ 20.00,7/26/2015
+Tokyo,Asics,MB1878,Male,8:13 PM,7,44,Black,Pants,€ 99.00,7/26/2015
+Tokyo,Asics,MB1878,Male,8:15 PM,7,43,Black,Pants,€ 99.00,7/26/2015
+Tokyo,Asics,MB1878,Male,10:42 PM,7,46,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Asics,MB1878,Male,9:32 AM,7,41,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Asics,WB2585,Female,10:20 AM,7,46,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Nike,Pro Hero,Female,10:52 AM,7,90D,Black,Bra,€ 99.00,7/26/2015
+Rotterdam,Asics,MB1878,Male,11:20 AM,7,36,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Asics,Hera Deux Single Tab,Female,11:27 AM,7,42-44,Black,Socks,€ 12.99,7/26/2015
+Rotterdam,Nike,Hyper Elite Crew,Unisex,11:30 AM,7,42-44,Black,Socks,€ 20.00,7/26/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,12:42 PM,7,36-38,Black,Socks,€ 21.00,7/26/2015
+Rotterdam,Asics,MB1878,Male,2:25 PM,7,46,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Asics,WB1820,Female,3:09 PM,7,39,Black,Pants,€ 89.00,7/26/2015
+Rotterdam,Asics,MB1878,Male,3:11 PM,7,45,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Asics,WB2585,Female,3:22 PM,7,38,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Asics,WB2585,Female,3:24 PM,7,43,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Asics,MB1878,Male,3:26 PM,7,46,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Asics,MB1878,Male,3:52 PM,7,45,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Asics,Quick Light Cushion,Unisex,4:03 PM,7,42-44,Black,Socks,€ 19.00,7/26/2015
+Rotterdam,Asics,MB1878,Male,4:30 PM,7,39,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Asics,MB1878,Male,4:31 PM,7,40,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Asics,MB1878,Male,5:10 PM,7,45,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Asics,Cummulus 17,Male,5:10 PM,7,36,Black,Shoe,€ 159.00,7/26/2015
+Rotterdam,Asics,WB2585,Female,5:19 PM,7,40,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Asics,MB1878,Male,5:25 PM,7,45,Black,Pants,€ 99.00,7/26/2015
+Rotterdam,Nike,Pro Fierce,Female,5:32 PM,7,75C,Black,Bra,€ 149.00,7/26/2015
+Rotterdam,Asics,WB1820,Female,5:35 PM,7,36,Black,Pants,€ 89.00,7/26/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,9:14 AM,7,38-40,Black,Socks,€ 20.00,7/26/2015
+Tokyo,Nike,Pro Indy,Female,12:23 PM,7,80C,Black,Bra,€ 123.00,7/26/2015
+Tokyo,Nike,Pro Classic,Female,12:24 PM,7,65B,Black,Bra,€ 100.00,7/26/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,2:45 PM,7,46-48,Black,Socks,€ 21.00,7/26/2015
+Tokyo,Nike,Air Zoom,Male,6:05 PM,7,39,Black,Shoe,€ 220.00,7/26/2015
+Tokyo,Nike,Pro Indy,Female,7:27 PM,7,85E,Black,Bra,€ 123.00,7/26/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,7:58 PM,7,46-48,Black,Socks,€ 20.00,7/26/2015
+Tokyo,Asics,MB1878,Male,9:24 PM,7,38,Black,Pants,€ 99.00,7/26/2015
+Tokyo,Asics,Cummulus 17,Female,10:43 PM,7,38,Black,Shoe,€ 159.00,7/26/2015
+Tokyo,Asics,MB1878,Male,9:15 AM,7,42,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Asics,WB1820,Female,10:01 AM,7,40,Black,Pants,€ 89.00,7/27/2015
+Tokyo,Asics,MB1878,Male,10:07 AM,7,45,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Asics,MB1878,Male,10:40 AM,7,39,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Asics,WB1820,Female,11:29 AM,7,45,Black,Pants,€ 89.00,7/27/2015
+Tokyo,Asics,MB1878,Male,11:54 AM,7,38,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Asics,MB1878,Male,1:35 PM,7,37,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Asics,MB1878,Male,1:49 PM,7,45,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,2:03 PM,7,40-42,Black,Socks,€ 20.00,7/27/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,2:06 PM,7,46-48,Black,Socks,€ 21.00,7/27/2015
+Tokyo,Asics,MB1878,Male,2:16 PM,7,43,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,2:42 PM,7,40-42,Black,Socks,€ 19.00,7/27/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,6:43 PM,7,42-44,Black,Socks,€ 20.00,7/27/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,6:43 PM,7,44-46,Black,Socks,€ 20.00,7/27/2015
+Tokyo,Asics,MB1878,Male,7:50 PM,7,46,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,8:19 PM,7,38-40,Black,Socks,€ 12.99,7/27/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,10:24 PM,7,36-38,Black,Socks,€ 20.00,7/27/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,10:30 PM,7,40-42,Black,Socks,€ 21.00,7/27/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,10:42 PM,7,46-48,Black,Socks,€ 19.00,7/27/2015
+Rotterdam,Nike,Pro Classic,Female,9:32 AM,7,90E,Black,Bra,€ 100.00,7/27/2015
+Rotterdam,Nike,Pro Classic,Female,9:45 AM,7,90F,Black,Bra,€ 100.00,7/27/2015
+Rotterdam,Asics,MB1878,Male,9:58 AM,7,40,Black,Pants,€ 99.00,7/27/2015
+Rotterdam,Asics,MB1878,Male,10:16 AM,7,38,Black,Pants,€ 99.00,7/27/2015
+Rotterdam,Asics,WB1820,Female,12:37 PM,7,44,Black,Pants,€ 89.00,7/27/2015
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,1:00 PM,7,40-42,Black,Socks,€ 20.00,7/27/2015
+Rotterdam,Asics,WB2585,Female,1:28 PM,7,39,Black,Pants,€ 99.00,7/27/2015
+Rotterdam,Asics,MB1878,Male,1:49 PM,7,39,Black,Pants,€ 99.00,7/27/2015
+Rotterdam,Asics,WB1820,Female,3:44 PM,7,37,Black,Pants,€ 89.00,7/27/2015
+Rotterdam,Asics,MB1878,Male,3:55 PM,7,42,Black,Pants,€ 99.00,7/27/2015
+Rotterdam,Asics,WB2585,Female,4:07 PM,7,41,Black,Pants,€ 99.00,7/27/2015
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,4:38 PM,7,42-44,Black,Socks,€ 20.00,7/27/2015
+Rotterdam,Nike,Pro Classic,Female,5:17 PM,7,85B,Black,Bra,€ 100.00,7/27/2015
+Rotterdam,Asics,Kayano Single Tab,Unisex,5:27 PM,7,44-46,Black,Socks,€ 24.99,7/27/2015
+Rotterdam,Asics,MB1878,Male,5:28 PM,7,42,Black,Pants,€ 99.00,7/27/2015
+Rotterdam,Asics,WB2585,Female,5:40 PM,7,38,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Nike,Air Zoom,Male,11:12 AM,7,44,Black,Shoe,€ 220.00,7/27/2015
+Tokyo,Asics,MB1878,Male,11:49 AM,7,44,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Asics,MB1878,Male,12:07 PM,7,37,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Asics,WB1820,Female,12:20 PM,7,43,Black,Pants,€ 89.00,7/27/2015
+Tokyo,Asics,MB1878,Male,12:37 PM,7,39,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,2:11 PM,7,44-46,Black,Socks,€ 20.00,7/27/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,2:51 PM,7,42-44,Black,Socks,€ 21.00,7/27/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,5:31 PM,7,42-44,Black,Socks,€ 24.99,7/27/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,5:42 PM,7,36-38,Black,Socks,€ 21.00,7/27/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,6:28 PM,7,46-48,Black,Socks,€ 20.00,7/27/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,6:31 PM,7,38-40,Black,Socks,€ 19.00,7/27/2015
+Tokyo,Asics,MB1878,Male,6:44 PM,7,37,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Nike,Pro Fierce,Female,7:14 PM,7,70C,Black,Bra,€ 149.00,7/27/2015
+Tokyo,Asics,MB1878,Male,9:23 PM,7,37,Black,Pants,€ 99.00,7/27/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,10:12 PM,7,36-38,Black,Socks,€ 12.99,7/27/2015
+Tokyo,Adidas,Ultra Boost,Female,2:25 PM,7,40,Black,Shoe,€ 139.00,7/27/2015
+Tokyo,Adidas,Rocket Boost,Male,2:19 PM,7,42,Black,Shoe,€ 110.00,7/27/2015
+Tokyo,Asics,WB1820,Female,7:37 AM,7,44,Black,Pants,€ 89.00,7/28/2015
+Tokyo,Asics,MB1878,Male,9:04 AM,7,41,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,9:51 AM,7,36-38,Black,Socks,€ 19.00,7/28/2015
+Tokyo,Asics,MB1878,Male,10:06 AM,7,42,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Asics,WB2585,Female,10:20 AM,7,37,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Asics,WB2585,Female,11:11 AM,7,44,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Asics,MB1878,Male,12:00 PM,7,43,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Asics,WB2585,Female,12:10 PM,7,38,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Asics,MB1878,Male,1:52 PM,7,40,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,2:47 PM,7,38-40,Black,Socks,€ 21.00,7/28/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,3:31 PM,7,36-38,Black,Socks,€ 24.99,7/28/2015
+Tokyo,Asics,MB1878,Male,6:56 PM,7,37,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Asics,WB1820,Female,7:20 PM,7,43,Black,Pants,€ 89.00,7/28/2015
+Tokyo,Asics,Nimbus 17,Male,8:13 PM,7,46,Black,Shoe,€ 128.00,7/28/2015
+Tokyo,Asics,WB2585,Female,8:49 PM,7,43,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,8:55 PM,7,40-42,Black,Socks,€ 19.00,7/28/2015
+Tokyo,Asics,MB1878,Male,9:41 PM,7,41,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,10:03 PM,7,42-44,Black,Socks,€ 20.00,7/28/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,10:22 PM,7,46-48,Black,Socks,€ 12.99,7/28/2015
+Tokyo,Asics,MB1878,Male,11:28 PM,7,39,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Asics,MB1878,Male,11:52 PM,7,40,Black,Pants,€ 99.00,7/28/2015
+Rotterdam,Asics,Hera Deux Single Tab,Female,10:38 AM,7,36-38,Black,Socks,€ 12.99,7/28/2015
+Rotterdam,Asics,Kayano Single Tab,Unisex,10:43 AM,7,40-42,Black,Socks,€ 24.99,7/28/2015
+Rotterdam,Asics,WB2585,Female,11:27 AM,7,43,Black,Pants,€ 99.00,7/28/2015
+Rotterdam,Nike,Pro Fierce,Female,12:11 PM,7,75F,Black,Bra,€ 149.00,7/28/2015
+Rotterdam,Asics,WB2585,Female,12:47 PM,7,40,Black,Pants,€ 99.00,7/28/2015
+Rotterdam,Asics,Quick Light Cushion,Unisex,1:12 PM,7,40-42,Black,Socks,€ 19.00,7/28/2015
+Rotterdam,Asics,Quick Light Cushion,Unisex,1:13 PM,7,42-44,Black,Socks,€ 19.00,7/28/2015
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,2:38 PM,7,42-44,Black,Socks,€ 20.00,7/28/2015
+Rotterdam,Asics,MB1878,Male,2:45 PM,7,46,Black,Pants,€ 99.00,7/28/2015
+Rotterdam,Nike,Free 5.0,Male,3:06 PM,7,43,Black,Shoe,€ 239.00,7/28/2015
+Rotterdam,Asics,Cummulus 17,Female,3:29 PM,7,43,Black,Shoe,€ 159.00,7/28/2015
+Rotterdam,Asics,MB1878,Male,3:54 PM,7,41,Black,Pants,€ 99.00,7/28/2015
+Rotterdam,Asics,WB2585,Female,4:10 PM,7,36,Black,Pants,€ 99.00,7/28/2015
+Rotterdam,Asics,MB1878,Male,4:18 PM,7,43,Black,Pants,€ 99.00,7/28/2015
+Rotterdam,Asics,MB1878,Male,5:14 PM,7,42,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Asics,Cummulus 17,Female,8:34 AM,7,42,Black,Shoe,€ 159.00,7/28/2015
+Tokyo,Asics,MB1878,Male,8:42 AM,7,44,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Asics,Cummulus 17,Female,8:52 AM,7,42,Black,Shoe,€ 159.00,7/28/2015
+Tokyo,Asics,MB1878,Male,9:07 AM,7,36,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Asics,WB1820,Female,9:56 AM,7,44,Black,Pants,€ 89.00,7/28/2015
+Tokyo,Nike,Pro Indy,Female,11:03 AM,7,70C,Black,Bra,€ 123.00,7/28/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,11:32 AM,7,46-48,Black,Socks,€ 19.00,7/28/2015
+Tokyo,Asics,MB1878,Male,4:14 PM,7,38,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Asics,WB1820,Female,4:52 PM,7,43,Black,Pants,€ 89.00,7/28/2015
+Tokyo,Nike,Free 5.0,Male,5:28 PM,7,45,Black,Shoe,€ 239.00,7/28/2015
+Tokyo,Asics,MB1878,Male,9:12 PM,7,36,Black,Pants,€ 99.00,7/28/2015
+Tokyo,Nike,Pro Fierce,Female,9:34 PM,7,90D,Black,Bra,€ 149.00,7/28/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,9:47 PM,7,40-42,Black,Socks,€ 20.00,7/28/2015
+Tokyo,Adidas,Boston 5,Male,3:24 PM,7,37,Black,Shoe,€ 125.00,7/28/2015
+Tokyo,Adidas,Boston 5,Male,4:25 PM,7,45,Black,Shoe,€ 125.00,7/28/2015
+Tokyo,Adidas,Ultra Boost,Female,3:09 PM,7,43,Black,Shoe,€ 139.00,7/28/2015
+Tokyo,Asics,WB2585,Female,9:51 AM,7,44,Black,Pants,€ 99.00,7/29/2015
+Tokyo,Asics,MB1878,Male,11:19 AM,7,39,Black,Pants,€ 99.00,7/29/2015
+Tokyo,Asics,WB2585,Female,11:38 AM,7,38,Black,Pants,€ 99.00,7/29/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,11:45 AM,7,40-42,Black,Socks,€ 19.00,7/29/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,11:52 AM,7,42-44,Black,Socks,€ 20.00,7/29/2015
+Tokyo,Asics,Cummulus 17,Male,1:32 PM,7,42,Black,Shoe,€ 159.00,7/29/2015
+Tokyo,Nike,Dri-Fit No-Show,Unisex,4:12 PM,7,40-42,Black,Socks,€ 20.00,7/29/2015
+Tokyo,Asics,MB1878,Male,5:45 PM,7,39,Black,Pants,€ 99.00,7/29/2015
+Tokyo,Asics,MB1878,Male,7:24 PM,7,39,Black,Pants,€ 99.00,7/29/2015
+Tokyo,Asics,MB1878,Male,7:58 PM,7,44,Black,Pants,€ 99.00,7/29/2015
+Rotterdam,Asics,WB2585,Female,9:45 AM,7,43,Black,Pants,€ 99.00,7/29/2015
+Rotterdam,Asics,Kayano Single Tab,Unisex,10:13 AM,7,36-38,Black,Socks,€ 24.99,7/29/2015
+Rotterdam,Asics,MB1878,Male,10:21 AM,7,36,Black,Pants,€ 99.00,7/29/2015
+Rotterdam,Nike,Hyper Elite Crew,Unisex,10:30 AM,7,46-48,Black,Socks,€ 20.00,7/29/2015
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,10:39 AM,7,40-42,Black,Socks,€ 20.00,7/29/2015
+Rotterdam,Asics,MB1878,Male,11:19 AM,7,44,Black,Pants,€ 99.00,7/29/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,3:09 PM,7,42-44,Black,Socks,€ 21.00,7/29/2015
+Rotterdam,Asics,Hera Deux Single Tab,Female,3:14 PM,7,46-48,Black,Socks,€ 12.99,7/29/2015
+Rotterdam,Asics,MB1878,Male,3:58 PM,7,46,Black,Pants,€ 99.00,7/29/2015
+Rotterdam,Nike,Pro Hero,Female,4:10 PM,7,80A,Black,Bra,€ 99.00,7/29/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,5:12 PM,7,40-42,Black,Socks,€ 21.00,7/29/2015
+Rotterdam,Asics,WB2585,Female,5:22 PM,7,41,Black,Pants,€ 99.00,7/29/2015
+Rotterdam,Asics,MB1878,Male,5:38 PM,7,43,Black,Pants,€ 99.00,7/29/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,8:41 AM,7,38-40,Black,Socks,€ 24.99,7/29/2015
+Tokyo,Asics,WB1820,Female,1:04 PM,7,43,Black,Pants,€ 89.00,7/29/2015
+Tokyo,Asics,WB1820,Female,8:09 PM,7,43,Black,Pants,€ 89.00,7/29/2015
+Tokyo,Adidas,Boston 5,Female,9:12 PM,7,41,Black,Shoe,€ 120.00,7/29/2015
+Tokyo,Adidas,Ultra Boost,Male,1:56 PM,7,45,Black,Shoe,€ 139.00,7/29/2015
+Tokyo,Adidas,Rocket Boost,Male,5:43 PM,7,45,Black,Shoe,€ 110.00,7/29/2015
+Tokyo,Adidas,Boston 5,Male,2:22 PM,7,46,Black,Shoe,€ 125.00,7/29/2015
+Tokyo,Adidas,Ultra Boost,Female,10:28 AM,7,44,Black,Shoe,€ 139.00,7/29/2015
+Tokyo,Adidas,Boston 5,Female,10:26 AM,7,43,Black,Shoe,€ 120.00,7/29/2015
+Tokyo,Asics,MB1878,Male,9:10 AM,7,42,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Asics,MB1878,Male,9:25 AM,7,44,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,11:57 AM,7,36-38,Black,Socks,€ 21.00,7/30/2015
+Tokyo,Asics,MB1878,Male,12:18 PM,7,40,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Asics,MB1878,Male,12:54 PM,7,46,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,3:18 PM,7,36-38,Black,Socks,€ 12.99,7/30/2015
+Tokyo,Asics,MB1878,Male,4:03 PM,7,36,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Asics,Cummulus 17,Male,4:24 PM,7,39,Black,Shoe,€ 159.00,7/30/2015
+Tokyo,Asics,WB2585,Female,6:17 PM,7,37,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Asics,MB1878,Male,6:24 PM,7,45,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Asics,MB1878,Male,7:12 PM,7,36,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Asics,WB2585,Female,10:16 PM,7,43,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Asics,WB2585,Female,11:00 PM,7,38,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Asics,MB1878,Male,11:35 PM,7,42,Black,Pants,€ 99.00,7/30/2015
+Rotterdam,Asics,MB1878,Male,9:45 AM,7,44,Black,Pants,€ 99.00,7/30/2015
+Rotterdam,Asics,MB1878,Male,10:52 AM,7,39,Black,Pants,€ 99.00,7/30/2015
+Rotterdam,Asics,WB2585,Female,11:43 AM,7,38,Black,Pants,€ 99.00,7/30/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,11:48 AM,7,40-42,Black,Socks,€ 21.00,7/30/2015
+Rotterdam,Asics,Hera Deux Single Tab,Female,12:08 PM,7,38-40,Black,Socks,€ 12.99,7/30/2015
+Rotterdam,Asics,WB2585,Female,12:34 PM,7,41,Black,Pants,€ 99.00,7/30/2015
+Rotterdam,Asics,WB1820,Female,1:10 PM,7,37,Black,Pants,€ 89.00,7/30/2015
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,2:50 PM,7,42-44,Black,Socks,€ 20.00,7/30/2015
+Rotterdam,Asics,Quick Light Cushion,Unisex,3:19 PM,7,44-46,Black,Socks,€ 19.00,7/30/2015
+Rotterdam,Asics,MB1878,Male,4:00 PM,7,39,Black,Pants,€ 99.00,7/30/2015
+Rotterdam,Asics,MB1878,Male,4:02 PM,7,42,Black,Pants,€ 99.00,7/30/2015
+Rotterdam,Asics,WB1820,Female,4:21 PM,7,42,Black,Pants,€ 89.00,7/30/2015
+Rotterdam,Asics,MB1878,Male,4:25 PM,7,39,Black,Pants,€ 99.00,7/30/2015
+Rotterdam,Asics,WB2585,Female,4:48 PM,7,41,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Asics,Hera Deux Single Tab,Female,12:46 PM,7,44-46,Black,Socks,€ 12.99,7/30/2015
+Tokyo,Asics,WB1820,Female,2:22 PM,7,42,Black,Pants,€ 89.00,7/30/2015
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,3:48 PM,7,36-38,Black,Socks,€ 21.00,7/30/2015
+Tokyo,Asics,MB1878,Male,4:06 PM,7,40,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Asics,Kayano Single Tab,Unisex,4:06 PM,7,42-44,Black,Socks,€ 24.99,7/30/2015
+Tokyo,Asics,WB1820,Female,5:49 PM,7,36,Black,Pants,€ 89.00,7/30/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,6:07 PM,7,36-38,Black,Socks,€ 19.00,7/30/2015
+Tokyo,Asics,WB1820,Female,7:09 PM,7,42,Black,Pants,€ 89.00,7/30/2015
+Tokyo,Asics,MB1878,Male,7:52 PM,7,43,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Asics,MB1878,Male,8:03 PM,7,43,Black,Pants,€ 99.00,7/30/2015
+Tokyo,Nike,Pro Indy,Female,11:12 PM,7,90F,Black,Bra,€ 123.00,7/30/2015
+Tokyo,Adidas,Boston 5,Female,10:12 AM,7,38,Black,Shoe,€ 120.00,7/30/2015
+Tokyo,Adidas,Boston 5,Female,2:38 PM,7,39,Black,Shoe,€ 120.00,7/30/2015
+Tokyo,Asics,MB1878,Male,7:42 AM,7,41,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,MB1878,Male,8:42 AM,7,41,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,MB1878,Male,9:23 AM,7,41,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,WB1820,Female,11:22 AM,7,42,Black,Pants,€ 89.00,7/31/2015
+Tokyo,Asics,WB1820,Female,11:51 AM,7,37,Black,Pants,€ 89.00,7/31/2015
+Tokyo,Asics,MB1878,Male,2:22 PM,7,44,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,MB1878,Male,2:24 PM,7,44,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,MB1878,Male,2:49 PM,7,40,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,WB1820,Female,4:53 PM,7,37,Black,Pants,€ 89.00,7/31/2015
+Tokyo,Asics,MB1878,Male,5:02 PM,7,45,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,WB1820,Female,5:51 PM,7,37,Black,Pants,€ 89.00,7/31/2015
+Tokyo,Nike,Pro Fierce,Female,6:10 PM,7,70A,Black,Bra,€ 149.00,7/31/2015
+Tokyo,Asics,MB1878,Male,7:24 PM,7,38,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,MB1878,Male,7:33 PM,7,41,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,MB1878,Male,8:25 PM,7,44,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,8:28 PM,7,42-44,Black,Socks,€ 20.00,7/31/2015
+Tokyo,Asics,WB1820,Female,8:34 PM,7,43,Black,Pants,€ 89.00,7/31/2015
+Tokyo,Asics,MB1878,Male,9:56 PM,7,41,Black,Pants,€ 99.00,7/31/2015
+Rotterdam,Nike,Hyper Elite Crew,Unisex,10:02 AM,7,38-40,Black,Socks,€ 20.00,7/31/2015
+Rotterdam,Asics,MB1878,Male,10:18 AM,7,38,Black,Pants,€ 99.00,7/31/2015
+Rotterdam,Asics,MB1878,Male,10:31 AM,7,43,Black,Pants,€ 99.00,7/31/2015
+Rotterdam,Asics,MB1878,Male,12:04 PM,7,36,Black,Pants,€ 99.00,7/31/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,12:29 PM,7,46-48,Black,Socks,€ 21.00,7/31/2015
+Rotterdam,Asics,MB1878,Male,1:13 PM,7,43,Black,Pants,€ 99.00,7/31/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,1:23 PM,7,46-48,Black,Socks,€ 21.00,7/31/2015
+Rotterdam,Asics,MB1878,Male,1:36 PM,7,44,Black,Pants,€ 99.00,7/31/2015
+Rotterdam,Asics,MB1878,Male,2:24 PM,7,39,Black,Pants,€ 99.00,7/31/2015
+Rotterdam,Asics,WB2585,Female,3:14 PM,7,42,Black,Pants,€ 99.00,7/31/2015
+Rotterdam,Asics,Kayano Single Tab,Unisex,3:54 PM,7,36-38,Black,Socks,€ 24.99,7/31/2015
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,4:21 PM,7,40-42,Black,Socks,€ 20.00,7/31/2015
+Rotterdam,Asics,MB1878,Male,4:23 PM,7,39,Black,Pants,€ 99.00,7/31/2015
+Rotterdam,Asics,MB1878,Male,4:41 PM,7,40,Black,Pants,€ 99.00,7/31/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,4:49 PM,7,46-48,Black,Socks,€ 21.00,7/31/2015
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,4:49 PM,7,46-48,Black,Socks,€ 21.00,7/31/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,10:42 AM,7,44-46,Black,Socks,€ 19.00,7/31/2015
+Tokyo,Asics,MB1878,Male,10:53 AM,7,45,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Nike,Pro Indy,Female,1:04 PM,7,75C,Black,Bra,€ 123.00,7/31/2015
+Tokyo,Nike,Pro Fierce,Female,2:02 PM,7,85B,Black,Bra,€ 149.00,7/31/2015
+Tokyo,Asics,WB1820,Female,2:57 PM,7,41,Black,Pants,€ 89.00,7/31/2015
+Tokyo,Asics,MB1878,Male,6:25 PM,7,46,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,MB1878,Male,6:40 PM,7,45,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,WB1820,Female,7:04 PM,7,41,Black,Pants,€ 89.00,7/31/2015
+Tokyo,Asics,MB1878,Male,10:46 PM,7,40,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,MB1878,Male,10:52 PM,7,43,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,10:56 PM,7,44-46,Black,Socks,€ 20.00,7/31/2015
+Tokyo,Adidas,Boston 5,Male,2:22 PM,7,46,Black,Shoe,€ 125.00,7/31/2015
+Tokyo,Adidas,Ultra Boost,Female,4:54 PM,7,40,Black,Shoe,€ 139.00,7/31/2015
+Tokyo,Asics,Quick Light Cushion,Unisex,10:42 AM,7,44-46,Black,Socks,€ 19.00,7/31/2015
+Tokyo,Asics,MB1878,Male,10:53 AM,7,45,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Nike,Pro Indy,Female,1:04 PM,7,75C,Black,Bra,€ 123.00,7/31/2015
+Tokyo,Nike,Pro Fierce,Female,2:02 PM,7,85B,Black,Bra,€ 149.00,7/31/2015
+Tokyo,Asics,WB1820,Female,2:57 PM,7,41,Black,Pants,€ 89.00,7/31/2015
+Tokyo,Asics,MB1878,Male,6:25 PM,7,46,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,MB1878,Male,6:40 PM,7,45,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,WB1820,Female,7:04 PM,7,41,Black,Pants,€ 89.00,7/31/2015
+Tokyo,Asics,MB1878,Male,10:46 PM,7,40,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Asics,MB1878,Male,10:52 PM,7,43,Black,Pants,€ 99.00,7/31/2015
+Tokyo,Nike,Hyper Elite Crew,Unisex,10:56 PM,7,44-46,Black,Socks,€ 20.00,7/31/2015
+Tokyo,Adidas,Boston 5,Male,2:22 PM,7,46,Black,Shoe,€ 125.00,7/31/2015
+Tokyo,Adidas,Ultra Boost,Female,4:54 PM,7,40,Black,Shoe,€ 139.00,7/31/2015

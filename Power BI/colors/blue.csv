@@ -1,0 +1,391 @@
+Store,Brand,Type,Gender,Size,Color,Category,Sales Price,Date,Time,Month
+Tokyo,Asics,WB1820,Female,42,Blue,Pants,€ 89.00,7/15/2015,7:32 AM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,42-44,Blue,Socks,€ 24.99,7/15/2015,7:33 AM,7
+Tokyo,Asics,WB1820,Female,39,Blue,Pants,€ 89.00,7/15/2015,8:48 AM,7
+Tokyo,Asics,Nimbus 17,Male,39,Blue,Shoe,€ 128.00,7/15/2015,11:34 AM,7
+Tokyo,Asics,WB1820,Female,40,Blue,Pants,€ 89.00,7/15/2015,11:41 AM,7
+Tokyo,Asics,WB1820,Female,41,Blue,Pants,€ 89.00,7/15/2015,12:41 PM,7
+Tokyo,Nike,Air Zoom,Male,42,Blue,Shoe,€ 230.00,7/15/2015,1:30 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,36-38,Blue,Socks,€ 19.00,7/15/2015,2:52 PM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,46-48,Blue,Socks,€ 12.99,7/15/2015,4:03 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,40-42,Blue,Socks,€ 19.00,7/15/2015,8:52 PM,7
+Tokyo,Nike,Pro Indy,Female,80F,Blue,Bra,€ 123.00,7/15/2015,9:52 AM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,44-46,Blue,Socks,€ 20.00,7/15/2015,10:20 AM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,38-40,Blue,Socks,€ 21.00,7/15/2015,10:52 AM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,46-48,Blue,Socks,€ 19.00,7/15/2015,12:11 PM,7
+Tokyo,Nike,Pro Fierce,Female,90B,Blue,Bra,€ 149.00,7/15/2015,1:25 PM,7
+Tokyo,Nike,Pro Fierce,Female,90F,Blue,Bra,€ 149.00,7/15/2015,1:38 PM,7
+Tokyo,Nike,Pro Hero,Female,65D,Blue,Bra,€ 99.00,7/15/2015,2:58 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,40-42,Blue,Socks,€ 20.00,7/15/2015,3:11 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,42-44,Blue,Socks,€ 20.00,7/15/2015,3:47 PM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,36-38,Blue,Socks,€ 12.99,7/15/2015,10:33 AM,7
+Tokyo,Nike,Free 5.0,Female,42,Blue,Shoe,€ 239.00,7/15/2015,2:13 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,42-44,Blue,Socks,€ 19.00,7/15/2015,6:33 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,40-42,Blue,Socks,€ 21.00,7/15/2015,8:39 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,44-46,Blue,Socks,€ 19.00,7/15/2015,11:28 PM,7
+Tokyo,Adidas,Ultra Boost,Female,46,Blue,Shoe,€ 139.00,7/15/2015,2:27 PM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,36-38,Blue,Socks,€ 12.99,7/16/2015,1:46 PM,7
+Tokyo,Asics,WB1820,Female,41,Blue,Pants,€ 89.00,7/16/2015,2:26 PM,7
+Tokyo,Nike,Air Zoom,Male,38,Blue,Shoe,€ 230.00,7/16/2015,4:12 PM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,36-38,Blue,Socks,€ 12.99,7/16/2015,4:58 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,36-38,Blue,Socks,€ 21.00,7/16/2015,5:29 PM,7
+Tokyo,Asics,WB1820,Female,38,Blue,Pants,€ 89.00,7/16/2015,6:18 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,40-42,Blue,Socks,€ 21.00,7/16/2015,9:52 AM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,44-46,Blue,Socks,€ 12.99,7/16/2015,10:26 AM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,46-48,Blue,Socks,€ 21.00,7/16/2015,11:17 AM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,44-46,Blue,Socks,€ 20.00,7/16/2015,11:58 AM,7
+Tokyo,Nike,Pro Fierce,Female,70D,Blue,Bra,€ 149.00,7/16/2015,12:42 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,40-42,Blue,Socks,€ 19.00,7/16/2015,1:05 PM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,36-38,Blue,Socks,€ 12.99,7/16/2015,2:07 PM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,44-46,Blue,Socks,€ 20.00,7/16/2015,3:00 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,44-46,Blue,Socks,€ 20.00,7/16/2015,3:32 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,38-40,Blue,Socks,€ 20.00,7/16/2015,4:34 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,38-40,Blue,Socks,€ 21.00,7/16/2015,4:56 PM,7
+Tokyo,Nike,Free 5.0,Male,44,Blue,Shoe,€ 239.00,7/16/2015,8:28 AM,7
+Tokyo,Nike,Pro Indy,Female,65E,Blue,Bra,€ 123.00,7/16/2015,10:29 AM,7
+Tokyo,Asics,Gel Quantics ,Female,46,Blue,Shoe,€ 120.00,7/16/2015,10:59 AM,7
+Tokyo,Nike,Pro Hero,Female,80B,Blue,Bra,€ 99.00,7/16/2015,12:57 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,42-44,Blue,Socks,€ 24.99,7/16/2015,3:12 PM,7
+Tokyo,Asics,WB1820,Female,42,Blue,Pants,€ 89.00,7/16/2015,4:45 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,40-42,Blue,Socks,€ 24.99,7/16/2015,4:55 PM,7
+Tokyo,Nike,Free 5.0,Male,39,Blue,Shoe,€ 239.00,7/16/2015,6:21 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,38-40,Blue,Socks,€ 24.99,7/16/2015,6:34 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,38-40,Blue,Socks,€ 20.00,7/16/2015,7:49 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,44-46,Blue,Socks,€ 20.00,7/16/2015,10:50 PM,7
+Tokyo,Nike,Free 5.0,Female,44,Blue,Shoe,€ 239.00,7/16/2015,11:11 PM,7
+Tokyo,Asics,WB1820,Female,37,Blue,Pants,€ 89.00,7/17/2015,12:43 PM,7
+Tokyo,Asics,Cummulus 17,Male,41,Blue,Shoe,€ 159.00,7/17/2015,7:04 PM,7
+Tokyo,Asics,WB1820,Female,39,Blue,Pants,€ 89.00,7/17/2015,10:50 PM,7
+Tokyo,Asics,WB1820,Female,36,Blue,Pants,€ 89.00,7/17/2015,9:47 AM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,42-44,Blue,Socks,€ 19.00,7/17/2015,10:31 AM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,44-46,Blue,Socks,€ 19.00,7/17/2015,10:41 AM,7
+Tokyo,Nike,Pro Fierce,Female,75F,Blue,Bra,€ 149.00,7/17/2015,11:10 AM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,36-38,Blue,Socks,€ 24.99,7/17/2015,1:23 PM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,38-40,Blue,Socks,€ 12.99,7/17/2015,1:52 PM,7
+Tokyo,Nike,Pro Hero,Female,90D,Blue,Bra,€ 99.00,7/17/2015,2:06 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,44-46,Blue,Socks,€ 21.00,7/17/2015,2:14 PM,7
+Tokyo,Nike,Pro Classic,Female,75F,Blue,Bra,€ 100.00,7/17/2015,2:33 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,42-44,Blue,Socks,€ 20.00,7/17/2015,3:54 PM,7
+Tokyo,Asics,WB1820,Female,39,Blue,Pants,€ 89.00,7/17/2015,3:58 PM,7
+Tokyo,Asics,WB1820,Female,39,Blue,Pants,€ 89.00,7/17/2015,9:08 AM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,36-38,Blue,Socks,€ 21.00,7/17/2015,2:44 PM,7
+Tokyo,Nike,Pro Fierce,Female,65F,Blue,Bra,€ 149.00,7/17/2015,9:14 PM,7
+Tokyo,Adidas,Rocket Boost,Female,41,Blue,Shoe,€ 100.00,7/17/2015,12:36 PM,7
+Tokyo,Adidas,Boston 5,Male,41,Blue,Shoe,€ 125.00,7/17/2015,2:50 PM,7
+Tokyo,Adidas,Ultra Boost,Male,41,Blue,Shoe,€ 139.00,7/17/2015,1:49 PM,7
+Tokyo,Adidas,Ultra Boost,Male,39,Blue,Shoe,€ 139.00,7/17/2015,12:26 PM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,40-42,Blue,Socks,€ 20.00,7/18/2015,7:20 AM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,46-48,Blue,Socks,€ 20.00,7/18/2015,8:55 AM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,40-42,Blue,Socks,€ 20.00,7/18/2015,9:02 AM,7
+Tokyo,Nike,Air Zoom,Male,39,Blue,Shoe,€ 230.00,7/18/2015,9:30 AM,7
+Tokyo,Asics,WB1820,Female,46,Blue,Pants,€ 89.00,7/18/2015,9:59 AM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,40-42,Blue,Socks,€ 24.99,7/18/2015,12:10 PM,7
+Tokyo,Asics,WB1820,Female,38,Blue,Pants,€ 89.00,7/18/2015,2:52 PM,7
+Tokyo,Asics,WB1820,Female,41,Blue,Pants,€ 89.00,7/18/2015,10:17 PM,7
+Tokyo,Nike,Pro Hero,Female,75C,Blue,Bra,€ 99.00,7/18/2015,10:37 PM,7
+Tokyo,Nike,Free 5.0,Female,42,Blue,Shoe,€ 239.00,7/18/2015,11:17 AM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,36-38,Blue,Socks,€ 12.99,7/18/2015,12:31 PM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,40-42,Blue,Socks,€ 20.00,7/18/2015,1:02 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,38-40,Blue,Socks,€ 24.99,7/18/2015,2:32 PM,7
+Tokyo,Asics,WB1820,Female,37,Blue,Pants,€ 89.00,7/18/2015,2:45 PM,7
+Tokyo,Asics,Cummulus 17,Male,40,Blue,Shoe,€ 159.00,7/18/2015,3:00 PM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,36-38,Blue,Socks,€ 12.99,7/18/2015,3:24 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,36-38,Blue,Socks,€ 21.00,7/18/2015,3:27 PM,7
+Rotterdam,Nike,Air Zoom,Male,43,Blue,Shoe,€ 220.00,7/18/2015,3:29 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,40-42,Blue,Socks,€ 24.99,7/18/2015,4:52 PM,7
+Rotterdam,Nike,Pro Indy,Female,90B,Blue,Bra,€ 123.00,7/18/2015,4:57 PM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,36-38,Blue,Socks,€ 20.00,7/18/2015,5:04 PM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,46-48,Blue,Socks,€ 20.00,7/18/2015,12:48 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,36-38,Blue,Socks,€ 19.00,7/18/2015,1:32 PM,7
+Tokyo,Adidas,Rocket Boost,Male,36,Blue,Shoe,€ 110.00,7/18/2015,5:01 PM,7
+Tokyo,Adidas,Boston 5,Female,40,Blue,Shoe,€ 120.00,7/18/2015,1:31 PM,7
+Tokyo,Adidas,Rocket Boost,Male,41,Blue,Shoe,€ 110.00,7/18/2015,3:54 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,38-40,Blue,Socks,€ 21.00,7/19/2015,9:17 AM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,42-44,Blue,Socks,€ 20.00,7/19/2015,5:08 PM,7
+Tokyo,Asics,WB1820,Female,44,Blue,Pants,€ 89.00,7/19/2015,8:57 PM,7
+Rotterdam,Nike,Free 5.0,Male,38,Blue,Shoe,€ 239.00,7/19/2015,10:26 AM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,44-46,Blue,Socks,€ 20.00,7/19/2015,10:43 AM,7
+Tokyo,Asics,WB1820,Female,37,Blue,Pants,€ 89.00,7/19/2015,11:09 AM,7
+Rotterdam,Nike,Hyper Elite Crew,Unisex,36-38,Blue,Socks,€ 20.00,7/19/2015,11:53 AM,7
+Tokyo,Asics,WB1820,Female,46,Blue,Pants,€ 89.00,7/19/2015,1:52 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,38-40,Blue,Socks,€ 19.00,7/19/2015,1:56 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,36-38,Blue,Socks,€ 19.00,7/19/2015,1:56 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,46-48,Blue,Socks,€ 21.00,7/19/2015,3:34 PM,7
+Rotterdam,Nike,Pro Fierce,Female,65E,Blue,Bra,€ 149.00,7/19/2015,4:16 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,40-42,Blue,Socks,€ 21.00,7/19/2015,5:33 PM,7
+Tokyo,Nike,Free 5.0,Male,36,Blue,Shoe,€ 239.00,7/19/2015,11:45 AM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,44-46,Blue,Socks,€ 12.99,7/19/2015,11:54 AM,7
+Tokyo,Asics,WB1820,Female,39,Blue,Pants,€ 89.00,7/19/2015,6:27 PM,7
+Tokyo,Nike,Pro Hero,Female,90E,Blue,Bra,€ 99.00,7/19/2015,8:21 PM,7
+Tokyo,Nike,Pro Classic,Female,75D,Blue,Bra,€ 100.00,7/19/2015,9:20 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,38-40,Blue,Socks,€ 24.99,7/20/2015,8:49 AM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,42-44,Blue,Socks,€ 21.00,7/20/2015,11:15 AM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,40-42,Blue,Socks,€ 19.00,7/20/2015,1:17 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,38-40,Blue,Socks,€ 21.00,7/20/2015,2:22 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,38-40,Blue,Socks,€ 24.99,7/20/2015,4:35 PM,7
+Tokyo,Asics,Nimbus 17,Male,44,Blue,Shoe,€ 128.00,7/20/2015,4:50 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,44-46,Blue,Socks,€ 19.00,7/20/2015,5:51 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,46-48,Blue,Socks,€ 21.00,7/20/2015,10:03 AM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,46-48,Blue,Socks,€ 21.00,7/20/2015,10:52 AM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,40-42,Blue,Socks,€ 12.99,7/20/2015,12:39 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,38-40,Blue,Socks,€ 21.00,7/20/2015,1:51 PM,7
+Rotterdam,Nike,Pro Classic,Female,75E,Blue,Bra,€ 100.00,7/20/2015,2:30 PM,7
+Rotterdam,Nike,Hyper Elite Crew,Unisex,40-42,Blue,Socks,€ 20.00,7/20/2015,3:54 PM,7
+Rotterdam,Nike,Air Zoom,Male,38,Blue,Shoe,€ 220.00,7/20/2015,4:39 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,42-44,Blue,Socks,€ 24.99,7/20/2015,9:10 AM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,38-40,Blue,Socks,€ 21.00,7/20/2015,12:41 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,44-46,Blue,Socks,€ 21.00,7/20/2015,7:45 PM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,42-44,Blue,Socks,€ 12.99,7/20/2015,8:55 PM,7
+Tokyo,Nike,Pro Fierce,Female,80A,Blue,Bra,€ 149.00,7/20/2015,9:18 PM,7
+Tokyo,Asics,WB1820,Female,45,Blue,Pants,€ 89.00,7/20/2015,9:23 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,44-46,Blue,Socks,€ 21.00,7/20/2015,10:35 PM,7
+Tokyo,Asics,Nimbus 17,Male,39,Blue,Shoe,€ 128.00,7/21/2015,7:35 AM,7
+Tokyo,Asics,WB1820,Female,38,Blue,Pants,€ 89.00,7/21/2015,9:41 AM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,46-48,Blue,Socks,€ 24.99,7/21/2015,11:11 AM,7
+Tokyo,Nike,Pro Classic,Female,75B,Blue,Bra,€ 100.00,7/21/2015,1:13 PM,7
+Tokyo,Asics,WB1820,Female,45,Blue,Pants,€ 89.00,7/21/2015,6:54 PM,7
+Tokyo,Asics,WB1820,Female,36,Blue,Pants,€ 89.00,7/21/2015,9:30 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,40-42,Blue,Socks,€ 24.99,7/21/2015,9:57 PM,7
+Tokyo,Asics,Nimbus 17,Male,38,Blue,Shoe,€ 128.00,7/21/2015,10:30 AM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,42-44,Blue,Socks,€ 21.00,7/21/2015,11:48 AM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,40-42,Blue,Socks,€ 12.99,7/21/2015,2:56 PM,7
+Rotterdam,Nike,Air Zoom,Female,38,Blue,Shoe,€ 230.00,7/21/2015,3:04 PM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,36-38,Blue,Socks,€ 20.00,7/21/2015,3:24 PM,7
+Rotterdam,Nike,Pro Fierce,Female,90A,Blue,Bra,€ 149.00,7/21/2015,3:29 PM,7
+Tokyo,Asics,WB1820,Female,45,Blue,Pants,€ 89.00,7/21/2015,3:55 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,38-40,Blue,Socks,€ 19.00,7/21/2015,4:43 PM,7
+Tokyo,Asics,Cummulus 17,Female,41,Blue,Shoe,€ 159.00,7/21/2015,9:38 AM,7
+Tokyo,Nike,Air Zoom,Female,38,Blue,Shoe,€ 230.00,7/21/2015,1:55 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,42-44,Blue,Socks,€ 19.00,7/21/2015,5:13 PM,7
+Tokyo,Asics,WB1820,Female,42,Blue,Pants,€ 89.00,7/21/2015,5:26 PM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,44-46,Blue,Socks,€ 12.99,7/21/2015,8:35 PM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,42-44,Blue,Socks,€ 20.00,7/21/2015,9:12 PM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,36-38,Blue,Socks,€ 20.00,7/21/2015,9:43 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,38-40,Blue,Socks,€ 24.99,7/21/2015,11:19 PM,7
+Tokyo,Adidas,Ultra Boost,Male,41,Blue,Shoe,€ 139.00,7/21/2015,10:46 AM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,40-42,Blue,Socks,€ 21.00,7/22/2015,8:36 AM,7
+Tokyo,Asics,WB1820,Female,45,Blue,Pants,€ 89.00,7/22/2015,10:33 AM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,38-40,Blue,Socks,€ 20.00,7/22/2015,10:57 AM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,44-46,Blue,Socks,€ 21.00,7/22/2015,11:37 AM,7
+Tokyo,Asics,WB1820,Female,44,Blue,Pants,€ 89.00,7/22/2015,12:03 PM,7
+Tokyo,Asics,WB1820,Female,43,Blue,Pants,€ 89.00,7/22/2015,1:03 PM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,40-42,Blue,Socks,€ 20.00,7/22/2015,1:18 PM,7
+Rotterdam,Asics,WB1820,Female,44,Blue,Pants,€ 89.00,7/22/2015,2:20 PM,7
+Rotterdam,Asics,Kayano Single Tab,Unisex,42-44,Blue,Socks,€ 24.99,7/22/2015,3:08 PM,7
+Rotterdam,Asics,WB1820,Female,44,Blue,Pants,€ 89.00,7/22/2015,3:52 PM,7
+Rotterdam,Asics,Hera Deux Single Tab,Female,36-38,Blue,Socks,€ 12.99,7/22/2015,4:13 PM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,38-40,Blue,Socks,€ 12.99,7/22/2015,9:05 AM,7
+Tokyo,Asics,Cummulus 17,Male,46,Blue,Shoe,€ 159.00,7/22/2015,9:11 AM,7
+Tokyo,Nike,Free 5.0,Female,38,Blue,Shoe,€ 239.00,7/22/2015,11:52 AM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,40-42,Blue,Socks,€ 24.99,7/22/2015,12:46 PM,7
+Tokyo,Nike,Pro Hero,Female,70F,Blue,Bra,€ 99.00,7/22/2015,1:03 PM,7
+Tokyo,Asics,WB1820,Female,43,Blue,Pants,€ 89.00,7/22/2015,3:31 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,36-38,Blue,Socks,€ 19.00,7/22/2015,4:09 PM,7
+Tokyo,Adidas,Rocket Boost,Male,45,Blue,Shoe,€ 110.00,7/22/2015,2:43 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,38-40,Blue,Socks,€ 20.00,7/23/2015,10:46 AM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,40-42,Blue,Socks,€ 21.00,7/23/2015,11:38 AM,7
+Rotterdam,Nike,Hyper Elite Crew,Unisex,46-48,Blue,Socks,€ 20.00,7/23/2015,9:32 AM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,38-40,Blue,Socks,€ 20.00,7/23/2015,9:34 AM,7
+Rotterdam,Asics,WB1820,Female,37,Blue,Pants,€ 89.00,7/23/2015,10:12 AM,7
+Rotterdam,Nike,Pro Hero,Female,90C,Blue,Bra,€ 99.00,7/23/2015,10:30 AM,7
+Rotterdam,Asics,Kayano Single Tab,Unisex,44-46,Blue,Socks,€ 24.99,7/23/2015,10:36 AM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,40-42,Blue,Socks,€ 20.00,7/23/2015,11:04 AM,7
+Rotterdam,Asics,Quick Light Cushion,Unisex,42-44,Blue,Socks,€ 19.00,7/23/2015,11:10 AM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,46-48,Blue,Socks,€ 21.00,7/23/2015,11:30 AM,7
+Rotterdam,Asics,Kayano Single Tab,Unisex,46-48,Blue,Socks,€ 24.99,7/23/2015,12:29 PM,7
+Rotterdam,Asics,WB1820,Female,46,Blue,Pants,€ 89.00,7/23/2015,1:18 PM,7
+Rotterdam,Asics,Kayano Single Tab,Unisex,36-38,Blue,Socks,€ 24.99,7/23/2015,2:30 PM,7
+Rotterdam,Asics,WB1820,Female,37,Blue,Pants,€ 89.00,7/23/2015,3:31 PM,7
+Rotterdam,Nike,Air Zoom,Male,46,Blue,Shoe,€ 220.00,7/23/2015,5:07 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,44-46,Blue,Socks,€ 19.00,7/23/2015,10:46 AM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,40-42,Blue,Socks,€ 12.99,7/23/2015,2:15 PM,7
+Tokyo,Nike,Pro Hero,Female,70A,Blue,Bra,€ 99.00,7/23/2015,2:32 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,44-46,Blue,Socks,€ 21.00,7/23/2015,3:11 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,42-44,Blue,Socks,€ 21.00,7/23/2015,4:24 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,46-48,Blue,Socks,€ 24.99,7/23/2015,4:55 PM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,42-44,Blue,Socks,€ 12.99,7/23/2015,5:12 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,40-42,Blue,Socks,€ 20.00,7/23/2015,7:53 PM,7
+Tokyo,Adidas,Ultra Boost,Female,46,Blue,Shoe,€ 139.00,7/23/2015,4:28 PM,7
+Tokyo,Adidas,Boston 5,Male,46,Blue,Shoe,€ 125.00,7/23/2015,5:02 PM,7
+Tokyo,Adidas,Rocket Boost,Female,45,Blue,Shoe,€ 100.00,7/23/2015,10:21 AM,7
+Tokyo,Asics,WB1820,Female,39,Blue,Pants,€ 89.00,7/24/2015,9:00 AM,7
+Tokyo,Asics,WB1820,Female,41,Blue,Pants,€ 89.00,7/24/2015,10:37 AM,7
+Tokyo,Nike,Pro Classic,Female,90C,Blue,Bra,€ 100.00,7/24/2015,12:01 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,36-38,Blue,Socks,€ 21.00,7/24/2015,2:06 PM,7
+Tokyo,Asics,WB1820,Female,39,Blue,Pants,€ 89.00,7/24/2015,6:44 PM,7
+Rotterdam,Asics,Quick Light Cushion,Unisex,36-38,Blue,Socks,€ 19.00,7/24/2015,10:02 AM,7
+Rotterdam,Asics,Quick Light Cushion,Unisex,38-40,Blue,Socks,€ 19.00,7/24/2015,10:36 AM,7
+Rotterdam,Asics,WB1820,Female,42,Blue,Pants,€ 89.00,7/24/2015,11:38 AM,7
+Rotterdam,Adidas,Rocket Boost,Female,46,Blue,Shoe,€ 100.00,7/24/2015,11:43 AM,7
+Rotterdam,Asics,Hera Deux Single Tab,Female,36-38,Blue,Socks,€ 12.99,7/24/2015,1:08 PM,7
+Rotterdam,Asics,Quick Light Cushion,Unisex,38-40,Blue,Socks,€ 19.00,7/24/2015,1:18 PM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,38-40,Blue,Socks,€ 20.00,7/24/2015,1:49 PM,7
+Rotterdam,Nike,Pro Classic,Female,70C,Blue,Bra,€ 100.00,7/24/2015,2:20 PM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,38-40,Blue,Socks,€ 20.00,7/24/2015,4:08 PM,7
+Rotterdam,Asics,WB1820,Female,43,Blue,Pants,€ 89.00,7/24/2015,4:30 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,42-44,Blue,Socks,€ 24.99,7/24/2015,9:25 AM,7
+Tokyo,Nike,Air Zoom,Female,38,Blue,Shoe,€ 230.00,7/24/2015,1:13 PM,7
+Tokyo,Nike,Elite Compression,Unisex,38-40,Blue,Socks,€ 23.99,7/24/2015,2:29 PM,7
+Tokyo,Nike,Pro Hero,Female,80B,Blue,Bra,€ 99.00,7/24/2015,5:44 PM,7
+Tokyo,Asics,WB1820,Female,39,Blue,Pants,€ 89.00,7/24/2015,8:25 PM,7
+Tokyo,Nike,Pro Fierce,Female,80B,Blue,Bra,€ 149.00,7/24/2015,10:17 PM,7
+Tokyo,Adidas,Boston 5,Male,42,Blue,Shoe,€ 125.00,7/24/2015,12:26 PM,7
+Tokyo,Adidas,Boston 5,Female,46,Blue,Shoe,€ 120.00,7/24/2015,10:03 AM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,44-46,Blue,Socks,€ 12.99,7/25/2015,8:16 AM,7
+Tokyo,Asics,WB1820,Female,46,Blue,Pants,€ 89.00,7/25/2015,6:10 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,36-38,Blue,Socks,€ 21.00,7/25/2015,6:34 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,44-46,Blue,Socks,€ 21.00,7/25/2015,6:41 PM,7
+Rotterdam,Nike,Pro Fierce,Female,65E,Blue,Bra,€ 149.00,7/25/2015,9:55 AM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,40-42,Blue,Socks,€ 21.00,7/25/2015,1:03 PM,7
+Rotterdam,Asics,WB1820,Female,44,Blue,Pants,€ 89.00,7/25/2015,1:36 PM,7
+Rotterdam,Nike,Pro Indy,Female,75D,Blue,Bra,€ 123.00,7/25/2015,2:55 PM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,36-38,Blue,Socks,€ 20.00,7/25/2015,5:22 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,38-40,Blue,Socks,€ 21.00,7/25/2015,12:56 PM,7
+Tokyo,Asics,WB1820,Female,41,Blue,Pants,€ 89.00,7/25/2015,2:28 PM,7
+Tokyo,Nike,Pro Fierce,Female,75E,Blue,Bra,€ 149.00,7/25/2015,6:02 PM,7
+Tokyo,Nike,Pro Fierce,Female,85B,Blue,Bra,€ 149.00,7/25/2015,11:28 PM,7
+Tokyo,Asics,WB1820,Female,45,Blue,Pants,€ 89.00,7/26/2015,10:13 AM,7
+Tokyo,Nike,Pro Hero,Female,80B,Blue,Bra,€ 99.00,7/26/2015,2:39 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,38-40,Blue,Socks,€ 21.00,7/26/2015,9:37 PM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,38-40,Blue,Socks,€ 20.00,7/26/2015,10:48 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,46-48,Blue,Socks,€ 21.00,7/26/2015,10:18 AM,7
+Rotterdam,Nike,Pro Hero,Female,70A,Blue,Bra,€ 99.00,7/26/2015,11:01 AM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,38-40,Blue,Socks,€ 21.00,7/26/2015,11:06 AM,7
+Rotterdam,Asics,Quick Light Cushion,Unisex,42-44,Blue,Socks,€ 19.00,7/26/2015,2:20 PM,7
+Rotterdam,Nike,Pro Classic,Female,65A,Blue,Bra,€ 100.00,7/26/2015,2:20 PM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,44-46,Blue,Socks,€ 20.00,7/26/2015,2:46 PM,7
+Rotterdam,Asics,WB1820,Female,39,Blue,Pants,€ 89.00,7/26/2015,3:52 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,44-46,Blue,Socks,€ 21.00,7/26/2015,3:52 PM,7
+Rotterdam,Asics,Kayano Single Tab,Unisex,44-46,Blue,Socks,€ 24.99,7/26/2015,4:03 PM,7
+Rotterdam,Asics,Quick Light Cushion,Unisex,42-44,Blue,Socks,€ 19.00,7/26/2015,4:23 PM,7
+Rotterdam,Adidas,Ultra Boost,Female,46,Blue,Shoe,€ 139.00,7/26/2015,4:46 PM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,38-40,Blue,Socks,€ 12.99,7/26/2015,11:34 AM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,42-44,Blue,Socks,€ 20.00,7/26/2015,4:33 PM,7
+Tokyo,Adidas,Rocket Boost,Male,43,Blue,Shoe,€ 110.00,7/26/2015,11:07 AM,7
+Tokyo,Adidas,Rocket Boost,Female,38,Blue,Shoe,€ 100.00,7/26/2015,11:06 AM,7
+Tokyo,Adidas,Rocket Boost,Female,46,Blue,Shoe,€ 100.00,7/26/2015,10:57 AM,7
+Tokyo,Adidas,Rocket Boost,Female,45,Blue,Shoe,€ 100.00,7/26/2015,1:16 PM,7
+Tokyo,Nike,Pro Fierce,Female,80F,Blue,Bra,€ 149.00,7/27/2015,7:27 AM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,36-38,Blue,Socks,€ 12.99,7/27/2015,12:14 PM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,42-44,Blue,Socks,€ 20.00,7/27/2015,2:05 PM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,44-46,Blue,Socks,€ 20.00,7/27/2015,2:09 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,40-42,Blue,Socks,€ 24.99,7/27/2015,3:05 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,42-44,Blue,Socks,€ 20.00,7/27/2015,3:43 PM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,44-46,Blue,Socks,€ 20.00,7/27/2015,4:49 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,40-42,Blue,Socks,€ 24.99,7/27/2015,4:56 PM,7
+Rotterdam,Adidas,Ultra Boost,Male,40,Blue,Shoe,€ 139.00,7/27/2015,9:32 AM,7
+Rotterdam,Nike,Air Zoom,Female,37,Blue,Shoe,€ 230.00,7/27/2015,10:26 AM,7
+Rotterdam,Nike,Pro Hero,Female,70A,Blue,Bra,€ 99.00,7/27/2015,11:58 AM,7
+Rotterdam,Asics,WB1820,Female,42,Blue,Pants,€ 89.00,7/27/2015,12:21 PM,7
+Rotterdam,Nike,Hyper Elite Crew,Unisex,42-44,Blue,Socks,€ 20.00,7/27/2015,12:42 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,42-44,Blue,Socks,€ 21.00,7/27/2015,1:07 PM,7
+Rotterdam,Asics,Quick Light Cushion,Unisex,44-46,Blue,Socks,€ 19.00,7/27/2015,1:28 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,46-48,Blue,Socks,€ 21.00,7/27/2015,2:09 PM,7
+Rotterdam,Asics,Kayano Single Tab,Unisex,38-40,Blue,Socks,€ 24.99,7/27/2015,2:56 PM,7
+Rotterdam,Nike,Pro Fierce,Female,65D,Blue,Bra,€ 149.00,7/27/2015,3:34 PM,7
+Rotterdam,Asics,Kayano Single Tab,Unisex,46-48,Blue,Socks,€ 24.99,7/27/2015,4:03 PM,7
+Rotterdam,Asics,Cummulus 17,Male,41,Blue,Shoe,€ 159.00,7/27/2015,4:18 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,38-40,Blue,Socks,€ 21.00,7/27/2015,4:20 PM,7
+Rotterdam,Nike,Hyper Elite Crew,Unisex,44-46,Blue,Socks,€ 20.00,7/27/2015,5:02 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,36-38,Blue,Socks,€ 21.00,7/27/2015,5:27 PM,7
+Tokyo,Asics,WB1820,Female,38,Blue,Pants,€ 89.00,7/27/2015,10:22 AM,7
+Tokyo,Nike,Air Zoom,Male,41,Blue,Shoe,€ 220.00,7/27/2015,11:19 AM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,36-38,Blue,Socks,€ 24.99,7/27/2015,3:18 PM,7
+Tokyo,Nike,Pro Fierce,Female,65A,Blue,Bra,€ 149.00,7/27/2015,3:21 PM,7
+Tokyo,Asics,WB1820,Female,45,Blue,Pants,€ 89.00,7/27/2015,5:54 PM,7
+Tokyo,Asics,WB1820,Female,37,Blue,Pants,€ 89.00,7/27/2015,8:39 PM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,46-48,Blue,Socks,€ 20.00,7/27/2015,10:20 PM,7
+Tokyo,Adidas,Boston 5,Female,43,Blue,Shoe,€ 120.00,7/27/2015,5:28 PM,7
+Tokyo,Adidas,Boston 5,Female,43,Blue,Shoe,€ 120.00,7/27/2015,3:21 PM,7
+Tokyo,Asics,Cummulus 17,Male,38,Blue,Shoe,€ 159.00,7/28/2015,12:00 PM,7
+Tokyo,Asics,WB1820,Female,42,Blue,Pants,€ 89.00,7/28/2015,3:36 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,44-46,Blue,Socks,€ 19.00,7/28/2015,4:07 PM,7
+Rotterdam,Asics,Cummulus 17,Male,37,Blue,Shoe,€ 159.00,7/28/2015,9:40 AM,7
+Rotterdam,Asics,Hera Deux Single Tab,Female,36-38,Blue,Socks,€ 12.99,7/28/2015,9:42 AM,7
+Rotterdam,Nike,Air Zoom,Female,39,Blue,Shoe,€ 230.00,7/28/2015,11:01 AM,7
+Rotterdam,Nike,Pro Fierce,Female,85B,Blue,Bra,€ 149.00,7/28/2015,11:06 AM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,42-44,Blue,Socks,€ 20.00,7/28/2015,11:43 AM,7
+Rotterdam,Asics,Quick Light Cushion,Unisex,44-46,Blue,Socks,€ 19.00,7/28/2015,1:03 PM,7
+Rotterdam,Nike,Pro Hero,Female,80C,Blue,Bra,€ 99.00,7/28/2015,2:20 PM,7
+Rotterdam,Asics,Nimbus 17,Male,46,Blue,Shoe,€ 128.00,7/28/2015,4:13 PM,7
+Rotterdam,Asics,Hera Deux Single Tab,Female,42-44,Blue,Socks,€ 12.99,7/28/2015,4:57 PM,7
+Rotterdam,Nike,Air Zoom,Male,43,Blue,Shoe,€ 220.00,7/28/2015,5:01 PM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,38-40,Blue,Socks,€ 20.00,7/28/2015,5:07 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,36-38,Blue,Socks,€ 21.00,7/28/2015,5:17 PM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,46-48,Blue,Socks,€ 20.00,7/28/2015,5:35 PM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,44-46,Blue,Socks,€ 20.00,7/28/2015,10:26 AM,7
+Tokyo,Nike,Pro Indy,Female,90A,Blue,Bra,€ 123.00,7/28/2015,2:26 PM,7
+Tokyo,Asics,WB1820,Female,39,Blue,Pants,€ 89.00,7/28/2015,3:37 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,40-42,Blue,Socks,€ 21.00,7/28/2015,3:56 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,42-44,Blue,Socks,€ 21.00,7/28/2015,4:59 PM,7
+Tokyo,Asics,WB1820,Female,45,Blue,Pants,€ 89.00,7/28/2015,5:22 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,38-40,Blue,Socks,€ 21.00,7/28/2015,10:16 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,44-46,Blue,Socks,€ 21.00,7/29/2015,9:31 AM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,40-42,Blue,Socks,€ 24.99,7/29/2015,11:00 AM,7
+Tokyo,Asics,WB1820,Female,46,Blue,Pants,€ 89.00,7/29/2015,12:40 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,38-40,Blue,Socks,€ 24.99,7/29/2015,4:16 PM,7
+Tokyo,Asics,Cummulus 17,Male,39,Blue,Shoe,€ 159.00,7/29/2015,5:38 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,46-48,Blue,Socks,€ 20.00,7/29/2015,7:10 PM,7
+Tokyo,Asics,Cummulus 17,Male,46,Blue,Shoe,€ 159.00,7/29/2015,8:06 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,38-40,Blue,Socks,€ 21.00,7/29/2015,10:58 PM,7
+Rotterdam,Asics,WB1820,Female,43,Blue,Pants,€ 89.00,7/29/2015,10:15 AM,7
+Rotterdam,Nike,Hyper Elite Crew,Unisex,46-48,Blue,Socks,€ 20.00,7/29/2015,11:22 AM,7
+Rotterdam,Asics,WB1820,Female,40,Blue,Pants,€ 89.00,7/29/2015,11:56 AM,7
+Rotterdam,Asics,Gel Quantics ,Female,36,Blue,Shoe,€ 120.00,7/29/2015,1:52 PM,7
+Rotterdam,Nike,Pro Indy,Female,65C,Blue,Bra,€ 123.00,7/29/2015,5:02 PM,7
+Rotterdam,Nike,Free 5.0,Female,45,Blue,Shoe,€ 239.00,7/29/2015,5:07 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,36-38,Blue,Socks,€ 20.00,7/29/2015,9:27 AM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,42-44,Blue,Socks,€ 19.00,7/29/2015,2:48 PM,7
+Tokyo,Asics,Nimbus 17,Male,42,Blue,Shoe,€ 128.00,7/29/2015,2:52 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,40-42,Blue,Socks,€ 19.00,7/29/2015,4:07 PM,7
+Tokyo,Asics,WB1820,Female,39,Blue,Pants,€ 89.00,7/29/2015,5:55 PM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,36-38,Blue,Socks,€ 12.99,7/29/2015,6:14 PM,7
+Tokyo,Nike,Pro Fierce,Female,70E,Blue,Bra,€ 149.00,7/29/2015,8:38 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,40-42,Blue,Socks,€ 21.00,7/29/2015,9:46 PM,7
+Tokyo,Asics,Cummulus 17,Female,37,Blue,Shoe,€ 159.00,7/29/2015,10:03 PM,7
+Tokyo,Adidas,Rocket Boost,Male,36,Blue,Shoe,€ 110.00,7/29/2015,10:49 AM,7
+Tokyo,Adidas,Rocket Boost,Female,36,Blue,Shoe,€ 100.00,7/29/2015,10:13 AM,7
+Tokyo,Asics,Hera Deux Single Tab,Female,38-40,Blue,Socks,€ 12.99,7/30/2015,8:22 AM,7
+Tokyo,Nike,Pro Hero,Female,70C,Blue,Bra,€ 99.00,7/30/2015,9:54 AM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,42-44,Blue,Socks,€ 20.00,7/30/2015,10:52 AM,7
+Tokyo,Asics,WB1820,Female,46,Blue,Pants,€ 89.00,7/30/2015,1:22 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,42-44,Blue,Socks,€ 21.00,7/30/2015,6:33 PM,7
+Tokyo,Asics,Kayano Single Tab,Unisex,36-38,Blue,Socks,€ 24.99,7/30/2015,8:15 PM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,36-38,Blue,Socks,€ 19.00,7/30/2015,10:16 PM,7
+Rotterdam,Asics,Hera Deux Single Tab,Female,40-42,Blue,Socks,€ 12.99,7/30/2015,9:36 AM,7
+Rotterdam,Nike,Air Zoom,Male,41,Blue,Shoe,€ 220.00,7/30/2015,12:00 PM,7
+Rotterdam,Nike,Hyper Elite Crew,Unisex,36-38,Blue,Socks,€ 20.00,7/30/2015,2:40 PM,7
+Rotterdam,Nike,Pro Classic,Female,75B,Blue,Bra,€ 100.00,7/30/2015,4:10 PM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,44-46,Blue,Socks,€ 20.00,7/30/2015,4:10 PM,7
+Rotterdam,Asics,WB1820,Female,45,Blue,Pants,€ 89.00,7/30/2015,4:26 PM,7
+Rotterdam,Nike,Hyper Elite Crew,Unisex,40-42,Blue,Socks,€ 20.00,7/30/2015,4:57 PM,7
+Tokyo,Nike,Free 5.0,Female,40,Blue,Shoe,€ 239.00,7/30/2015,12:38 PM,7
+Tokyo,Asics,WB1820,Female,43,Blue,Pants,€ 89.00,7/30/2015,3:34 PM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,44-46,Blue,Socks,€ 20.00,7/30/2015,8:31 PM,7
+Tokyo,Adidas,Boston 5,Male,41,Blue,Shoe,€ 125.00,7/30/2015,11:19 AM,7
+Tokyo,Adidas,Rocket Boost,Male,46,Blue,Shoe,€ 110.00,7/30/2015,12:01 PM,7
+Tokyo,Asics,WB1820,Female,45,Blue,Pants,€ 89.00,7/31/2015,7:43 AM,7
+Tokyo,Asics,Quick Light Cushion,Unisex,44-46,Blue,Socks,€ 19.00,7/31/2015,8:03 AM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,46-48,Blue,Socks,€ 20.00,7/31/2015,3:04 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,40-42,Blue,Socks,€ 20.00,7/31/2015,4:07 PM,7
+Tokyo,Asics,WB1820,Female,36,Blue,Pants,€ 89.00,7/31/2015,5:16 PM,7
+Tokyo,Nike,Hyper Elite Crew,Unisex,36-38,Blue,Socks,€ 20.00,7/31/2015,6:54 PM,7
+Tokyo,Nike,Pro Fierce,Female,85F,Blue,Bra,€ 149.00,7/31/2015,8:12 PM,7
+Tokyo,Asics,WB1820,Female,46,Blue,Pants,€ 89.00,7/31/2015,10:36 PM,7
+Rotterdam,Nike,Air Zoom,Female,38,Blue,Shoe,€ 230.00,7/31/2015,10:38 AM,7
+Rotterdam,Nike,Pro Fierce,Female,75F,Blue,Bra,€ 149.00,7/31/2015,10:39 AM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,46-48,Blue,Socks,€ 20.00,7/31/2015,10:43 AM,7
+Rotterdam,Nike,Dri-Fit No-Show,Unisex,36-38,Blue,Socks,€ 20.00,7/31/2015,11:30 AM,7
+Rotterdam,Asics,WB1820,Female,39,Blue,Pants,€ 89.00,7/31/2015,11:45 AM,7
+Rotterdam,Nike,Free 5.0,Male,40,Blue,Shoe,€ 239.00,7/31/2015,1:00 PM,7
+Rotterdam,Nike,Pro Indy,Female,90D,Blue,Bra,€ 123.00,7/31/2015,2:27 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,40-42,Blue,Socks,€ 21.00,7/31/2015,2:46 PM,7
+Rotterdam,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,40-42,Blue,Socks,€ 21.00,7/31/2015,4:44 PM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,36-38,Blue,Socks,€ 21.00,7/31/2015,8:51 AM,7
+Tokyo,Nike,Nike Elite Match Fit Mercurial Crew,Unisex,44-46,Blue,Socks,€ 21.00,7/31/2015,9:02 AM,7
+Tokyo,Nike,Free 5.0,Male,39,Blue,Shoe,€ 239.00,7/31/2015,10:13 AM,7
+Tokyo,Nike,Pro Fierce,Female,80A,Blue,Bra,€ 149.00,7/31/2015,10:33 AM,7
+Tokyo,Asics,WB1820,Female,37,Blue,Pants,€ 89.00,7/31/2015,12:00 PM,7
+Tokyo,Asics,WB1820,Female,41,Blue,Pants,€ 89.00,7/31/2015,1:24 PM,7
+Tokyo,Nike,Free 5.0,Male,42,Blue,Shoe,€ 239.00,7/31/2015,5:52 PM,7
+Tokyo,Nike,Dri-Fit No-Show,Unisex,42-44,Blue,Socks,€ 20.00,7/31/2015,6:41 PM,7
