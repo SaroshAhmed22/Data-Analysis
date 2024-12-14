@@ -1,0 +1,13 @@
+formulas:
+3% Increase = [Target] * .03
+
+New Target = [Target] + [3% Increase]
+
+functions:
+Comment = if([New Target] > 2000000,"A", if([New Target] > 1500000, "B","C"))
+
+
+Measure:
+Difference = sum('Sales Data'[Sales]) - sum(Budget[Target])
+
+formate: #,#;(#,#)
