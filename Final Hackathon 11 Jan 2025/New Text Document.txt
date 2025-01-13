@@ -1,0 +1,28 @@
+{
+  "name": "Modern Gradient Theme",
+  "dataColors": ["#4a90e2", "#50e3c2", "#f5a623", "#9013fe", "#b8e986", "#f8e71c"],
+  "background": "#ffffff",
+  "foreground": "#333333",
+  "tableAccent": "#4a90e2",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "general": [{
+          "fontFamily": "Segoe UI",
+          "fontSize": 12,
+          "outlineWeight": 0,
+          "textColor": {"solid": {"color": "#333333"}}
+        }],
+        "title": [{
+          "fontSize": 14,
+          "fontFamily": "Segoe UI Bold",
+          "textColor": {"solid": {"color": "#4a90e2"}}
+        }],
+        "background": [{
+          "color": "#ffffff",
+          "transparency": 0
+        }]
+      }
+    }
+  }
+}

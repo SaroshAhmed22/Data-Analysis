@@ -1,0 +1,23 @@
+{
+  "name": "Futuristic Tech Theme",
+  "dataColors": ["#00e5ff", "#1de9b6", "#00bcd4", "#64ffda", "#18ffff", "#80deea"],
+  "background": "#0a0a0a",
+  "foreground": "#e0e0e0",
+  "tableAccent": "#00e5ff",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "general": [{
+          "fontFamily": "Roboto",
+          "fontSize": 12,
+          "textColor": {"solid": {"color": "#e0e0e0"}}
+        }],
+        "title": [{
+          "fontSize": 14,
+          "fontFamily": "Roboto Bold",
+          "textColor": {"solid": {"color": "#00e5ff"}}
+        }]
+      }
+    }
+  }
+}
